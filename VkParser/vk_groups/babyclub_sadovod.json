@@ -1,0 +1,2148 @@
+{
+    "response": {
+        "count": 3572,
+        "items": [
+            {
+                "copy_history": [
+                    {
+                        "type": "post",
+                        "attachments": [
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1673233161,
+                                    "id": 457325945,
+                                    "owner_id": 445215003,
+                                    "access_key": "dc9064ea95d1ed7e07",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 67,
+                                            "url": "https://sun1-17.userapi.com/impg/qlbYqRnVNjs66hvWt7s02NKgtPZNz7_ZWBzokw/I-ZlA6kfUkc.jpg?size=67x75&quality=95&sign=409207f4dacdeab3be47d4ae4767876e&c_uniq_tag=AzkBz_IejYrHf4Ud1YBQJrdkz46nWsHV_QgbiiEVygE&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 116,
+                                            "url": "https://sun1-17.userapi.com/impg/qlbYqRnVNjs66hvWt7s02NKgtPZNz7_ZWBzokw/I-ZlA6kfUkc.jpg?size=116x130&quality=95&sign=892773e14119a6d3202963c86d06ab4c&c_uniq_tag=dkAD7jpnL1RLHtUVHGvpgUzGaJxCvvt_H5t86HY2ko0&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 538,
+                                            "url": "https://sun1-17.userapi.com/impg/qlbYqRnVNjs66hvWt7s02NKgtPZNz7_ZWBzokw/I-ZlA6kfUkc.jpg?size=538x604&quality=95&sign=2ae4b0abef152b9fa2dda82ac67c5aa7&c_uniq_tag=x7nAUArxV5TWbFNV9Fl1gutnhhvy_z4rp0H4dinHs0s&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 718,
+                                            "url": "https://sun1-17.userapi.com/impg/qlbYqRnVNjs66hvWt7s02NKgtPZNz7_ZWBzokw/I-ZlA6kfUkc.jpg?size=718x807&quality=95&sign=5683249d3dfc24463b42f088717de86a&c_uniq_tag=JEDTc-vRyiBYyTizqKs8j-gaAm4f6v2H7xenP-NrLvg&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 961,
+                                            "url": "https://sun1-17.userapi.com/impg/qlbYqRnVNjs66hvWt7s02NKgtPZNz7_ZWBzokw/I-ZlA6kfUkc.jpg?size=961x1080&quality=95&sign=608f9e5eb423077850592f30941fc649&c_uniq_tag=AHRABgWTouWBGbEDicVdPLL0bPbunBOAoo70lkgcPVk&type=album"
+                                        },
+                                        {
+                                            "height": 1083,
+                                            "type": "w",
+                                            "width": 964,
+                                            "url": "https://sun1-17.userapi.com/impg/qlbYqRnVNjs66hvWt7s02NKgtPZNz7_ZWBzokw/I-ZlA6kfUkc.jpg?size=964x1083&quality=95&sign=9fbf90dd18c387ca8f95e21e19d41fba&c_uniq_tag=o18f9fYOFW_EeF6NAT9eWHQHwinpysu3fRgyC1-zqec&type=album"
+                                        },
+                                        {
+                                            "height": 146,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-17.userapi.com/impg/qlbYqRnVNjs66hvWt7s02NKgtPZNz7_ZWBzokw/I-ZlA6kfUkc.jpg?size=130x146&quality=95&sign=9bba4be50e39b2b4a72d703a7cf68070&c_uniq_tag=4sspqEkK6BFmB6pl9EnDp-kRQyrki9Ixhz4WrqTJ0Qo&type=album"
+                                        },
+                                        {
+                                            "height": 225,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-17.userapi.com/impg/qlbYqRnVNjs66hvWt7s02NKgtPZNz7_ZWBzokw/I-ZlA6kfUkc.jpg?size=200x225&quality=95&sign=90b9b0ddeb8628cebeee7ef7df071271&c_uniq_tag=eyqVWDdUuC392oUXGBFx5XPtuT1XXH_Zl8GVpZ0iNSM&type=album"
+                                        },
+                                        {
+                                            "height": 359,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-17.userapi.com/impg/qlbYqRnVNjs66hvWt7s02NKgtPZNz7_ZWBzokw/I-ZlA6kfUkc.jpg?size=320x359&quality=95&sign=499d09e3fdf23b4d86a3e53421dbd184&c_uniq_tag=__v3FrVLJBRiux0LLu9-bWpr_7F1IyKlajjsf-YHKJk&type=album"
+                                        },
+                                        {
+                                            "height": 573,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-17.userapi.com/impg/qlbYqRnVNjs66hvWt7s02NKgtPZNz7_ZWBzokw/I-ZlA6kfUkc.jpg?size=510x573&quality=95&sign=b789121654ee017e838494548a1a2f1a&c_uniq_tag=lIdKuPtkJIngGhmvAMSLdYUadiiPZcmBY-vEPet65fo&type=album"
+                                        }
+                                    ],
+                                    "text": "",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "link": {
+                                    "url": "https://vk.com/wall445215003_9672",
+                                    "description": "",
+                                    "is_favorite": false,
+                                    "title": "",
+                                    "target": "internal"
+                                }
+                            }
+                        ],
+                        "date": 1673234328,
+                        "from_id": 445215003,
+                        "id": 20344,
+                        "owner_id": 445215003,
+                        "post_source": {
+                            "platform": "iphone",
+                            "type": "api"
+                        },
+                        "post_type": "post",
+                        "text": "🇷🇺 Москва, рынок Садовод,\nновый торговый центр, корпус «Б», линия «В», 2 этаж,павильон 76-78\n\n          ⚜️РЕЖИМ РАБОТЫ ⚜️\n         Ежедневно с 7.00-15.00    \n       \n🔔🔔🔔Уважаемые покупатели!🔔🔔🔔\n Заказывая товар через интернет, будьте готовы, что оттенок может немного отличаться (чуть светлее или темнее, чем на фото).Производство нашей продукции фабричный 👍Китай. Наши вещи выгодно отличаются от массового ассортимента рынков😉\n❇️отличное качество\n❇️эксклюзивные модельки\n❇️широкий ассортимент на малышей и подростков\n❇️предоставленные фотографии, мы делаем сами, так сказать \"в живую\"\n❇️отвечаем на вопросы в порядке очереди❗ порядочность и честность гарантируем 🤓🤗🤑\n\nВнимательно проверяйте соответствие модели,размера, цвета, количества и т.д. на месте, во избежании недоразумений!!! \n🤗 Возвратов и обменов нет!!! (кроме фабричного брака) \n\nРозницы у нас нет❗❗❗Соответственно цены указаны оптовые❗Поштучно работаем с интернет магазинами и посредниками❗\n\n🔹Для интернет магазинов и посредников можно выкупать товар ПОШТУЧНО, т. е. не сериями,но отправки штучно мы не делаем‼️\n🔹Осуществляем отправку в регионы от 5000₽ (можно набирать разные размеры и модели), любыми транспортными компаниями и автобусами, находящимися на территории рынка Садовод, а так же почтой! \n🔹При получении вы оплачиваете по тарифам ТК, автобусов \n🔹Доставка к автобусу 100р.-грузчику,который относит ваш заказ, до ТК 200-300₽ в зависимости от объёма, доставка до почты 200 руб(+по чеку) \n🔹Заказы скидывайте в личном сообщении с фотографией вещи, с указанием цвета, размера и количества\n🔹 Заказы формируются только после ПОЛНОЙ ОПЛАТЫ и отправляются в тот же день\n🔹 СКИДКИ применяются к заказам по цене ШТУЧНО‼️\nПри заказе от 25.000 р-скидка 5%\nзаказ от 50. 000 р-скидка 10%\n♥️Заказы по Цене УПАКОВКОЙ без дополнительныех скидок‼️\n🔹Возможна бронь (при полной оплате на карту )\n❗Наша размерная таблица здесь⬇️⬇️⬇️\nhttps://vk.com/wall445215003_9672"
+                    }
+                ],
+                "donut": {
+                    "is_donut": false
+                },
+                "is_pinned": 1,
+                "comments": {
+                    "can_post": 0,
+                    "count": 0
+                },
+                "marked_as_ads": 0,
+                "short_text_rate": 0.8,
+                "hash": "TCW89AQO2UC0kmz75i5X4TCOMkBa",
+                "type": "post",
+                "attachments": [],
+                "date": 1673236897,
+                "from_id": -167527030,
+                "id": 11777,
+                "is_favorite": false,
+                "likes": {
+                    "can_like": 1,
+                    "count": 22,
+                    "user_likes": 0,
+                    "can_publish": 1,
+                    "repost_disabled": false
+                },
+                "owner_id": -167527030,
+                "post_source": {
+                    "platform": "iphone",
+                    "type": "api"
+                },
+                "post_type": "post",
+                "reposts": {
+                    "count": 18,
+                    "user_reposted": 0
+                },
+                "text": "",
+                "views": {
+                    "count": 80438
+                }
+            },
+            {
+                "copy_history": [
+                    {
+                        "type": "post",
+                        "attachments": [
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682700999,
+                                    "id": 457332567,
+                                    "owner_id": 445215003,
+                                    "access_key": "289be080e64b7e9ddd",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 56,
+                                            "url": "https://sun1-16.userapi.com/impg/bW5K6szVZqtkYyZL-g6ZKpkGNGrJvRwu2yKk2w/9wmLtplMGYc.jpg?size=56x75&quality=95&sign=2607bcd9a59f462fa2fec024c6b11040&c_uniq_tag=8MToF-q89VpuIwPrIex_D4pxy58H2ElYO1XwhPN1jkM&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 98,
+                                            "url": "https://sun1-16.userapi.com/impg/bW5K6szVZqtkYyZL-g6ZKpkGNGrJvRwu2yKk2w/9wmLtplMGYc.jpg?size=98x130&quality=95&sign=874171a1bbd851fd4f4ff31b989fcb26&c_uniq_tag=4rsxofygasbffW_EIJLHiGkQBkBLpYqp8xT7O30ocEU&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 453,
+                                            "url": "https://sun1-16.userapi.com/impg/bW5K6szVZqtkYyZL-g6ZKpkGNGrJvRwu2yKk2w/9wmLtplMGYc.jpg?size=453x604&quality=95&sign=89ac1dd08145f1d30c55e60dc679cbc8&c_uniq_tag=AeKhelzcsvYOveCixZZTdFNX13S7fc3rSrt32tigM44&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 605,
+                                            "url": "https://sun1-16.userapi.com/impg/bW5K6szVZqtkYyZL-g6ZKpkGNGrJvRwu2yKk2w/9wmLtplMGYc.jpg?size=605x807&quality=95&sign=e9e6abbfe265f1f34a929510c02ab212&c_uniq_tag=6eeHe8Uwofdz6rD22LQKS7OSiTKS8IY6U0m1fqrPXDk&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 810,
+                                            "url": "https://sun1-16.userapi.com/impg/bW5K6szVZqtkYyZL-g6ZKpkGNGrJvRwu2yKk2w/9wmLtplMGYc.jpg?size=810x1080&quality=95&sign=e47946c0118fcd40edc00356c62cb259&c_uniq_tag=m9TlwiHfn8Urajkj4XdlxaSn-QkljGMGOJ6QaG5p8GU&type=album"
+                                        },
+                                        {
+                                            "height": 1905,
+                                            "type": "w",
+                                            "width": 1429,
+                                            "url": "https://sun1-16.userapi.com/impg/bW5K6szVZqtkYyZL-g6ZKpkGNGrJvRwu2yKk2w/9wmLtplMGYc.jpg?size=1429x1905&quality=95&sign=161ea1dd889b64deaef3fb2a2dc0d093&c_uniq_tag=1OB-cSCeV0wu0-tq0-q7G9LxNIYJU7UypIfIm6bhgXo&type=album"
+                                        },
+                                        {
+                                            "height": 173,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-16.userapi.com/impg/bW5K6szVZqtkYyZL-g6ZKpkGNGrJvRwu2yKk2w/9wmLtplMGYc.jpg?size=130x173&quality=95&sign=97ed8e82198471584dd850f2a5280e4b&c_uniq_tag=wi7H02BFoBA-0er_uA0yRpGR90CmJVxaZmuf4zy7rBk&type=album"
+                                        },
+                                        {
+                                            "height": 267,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-16.userapi.com/impg/bW5K6szVZqtkYyZL-g6ZKpkGNGrJvRwu2yKk2w/9wmLtplMGYc.jpg?size=200x267&quality=95&sign=53ac28f6ece64b676e9d3f57edb7daa9&c_uniq_tag=AcPQMHxK4DpoQsEDnd9-8wircDy45szkQ44gyYuBhEY&type=album"
+                                        },
+                                        {
+                                            "height": 427,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-16.userapi.com/impg/bW5K6szVZqtkYyZL-g6ZKpkGNGrJvRwu2yKk2w/9wmLtplMGYc.jpg?size=320x427&quality=95&sign=a76ef95f8f1c181d282a74999b909263&c_uniq_tag=Ii7xQ2S28VrSsAHPqTz4FKRq5o4vBih07DvjWszpjeA&type=album"
+                                        },
+                                        {
+                                            "height": 680,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-16.userapi.com/impg/bW5K6szVZqtkYyZL-g6ZKpkGNGrJvRwu2yKk2w/9wmLtplMGYc.jpg?size=510x680&quality=95&sign=55ff19c872c3e18b6b29c856db4911e4&c_uniq_tag=hWd1fEVmpD8iob8MEJdwrkQAmyx34sd-oThgPOGDcD8&type=album"
+                                        }
+                                    ],
+                                    "text": "🌈А у нас  хлопковые сарафаны,свободного🌈 кроя,брители регулируются по длине 👍\nСбоку потайная молния ⚡️\n✔️цена 800₽🔥🔥🔥\n✔️цена упаковкой 700₽(5 шт*700₽)\nРазмеры 122,128,134,140,146/152(в размер)\nМодель рост 140,сарафан 140‼️фото живые,наши",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682700567,
+                                    "id": 457332552,
+                                    "owner_id": 445215003,
+                                    "access_key": "b48b1808a87a9d523b",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 54,
+                                            "url": "https://sun1-30.userapi.com/impg/OLOASzYJYjNW6IyB4XRDXOBOg6eU6CYKeGstdw/3flKwc8tmds.jpg?size=54x75&quality=95&sign=c28d3b4be0555af587de13ce9f7e6d99&c_uniq_tag=E2nu2Xfiy8_4p91PFIQUwFy7rLNwYthtSDzn9azdeuo&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 94,
+                                            "url": "https://sun1-30.userapi.com/impg/OLOASzYJYjNW6IyB4XRDXOBOg6eU6CYKeGstdw/3flKwc8tmds.jpg?size=94x130&quality=95&sign=f27d26a8081e4f765a5e303f01878bc9&c_uniq_tag=MYsOxw9n-4782SM_Iyk8xYyNv3rrk9KnDG8xERAYhx8&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 436,
+                                            "url": "https://sun1-30.userapi.com/impg/OLOASzYJYjNW6IyB4XRDXOBOg6eU6CYKeGstdw/3flKwc8tmds.jpg?size=436x604&quality=95&sign=1ce2e92b396c02dfdb4f55252233ebd3&c_uniq_tag=MIXe_0lyBtlQUNwNRhdj1OMkgSXaH40-9uMvLg68LeQ&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 582,
+                                            "url": "https://sun1-30.userapi.com/impg/OLOASzYJYjNW6IyB4XRDXOBOg6eU6CYKeGstdw/3flKwc8tmds.jpg?size=582x807&quality=95&sign=07369dd69e70f4aa0d3089a0d6e168f5&c_uniq_tag=-NFdaoAj_YwTyB1VGijqYnEdUWCF0Nnaxn0tJWFSXQk&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 779,
+                                            "url": "https://sun1-30.userapi.com/impg/OLOASzYJYjNW6IyB4XRDXOBOg6eU6CYKeGstdw/3flKwc8tmds.jpg?size=779x1080&quality=95&sign=4adf3eacb711fd8d5670377e7f4830ca&c_uniq_tag=PnDO3vIAdHtTpBle3Wq5m6VSWn2W9nTskZw-4Syq7QY&type=album"
+                                        },
+                                        {
+                                            "height": 2160,
+                                            "type": "w",
+                                            "width": 1558,
+                                            "url": "https://sun1-30.userapi.com/impg/OLOASzYJYjNW6IyB4XRDXOBOg6eU6CYKeGstdw/3flKwc8tmds.jpg?size=1558x2160&quality=95&sign=7a660e034f53b30eacaaad90eeaa9e64&c_uniq_tag=eO3T_qO5NGLsSMw7tUQYTLGJSvKExqi-3TIRIjH_JQ8&type=album"
+                                        },
+                                        {
+                                            "height": 180,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-30.userapi.com/impg/OLOASzYJYjNW6IyB4XRDXOBOg6eU6CYKeGstdw/3flKwc8tmds.jpg?size=130x180&quality=95&sign=96474dce27d62624ec4aef93fb3a6675&c_uniq_tag=rybWOl3d7HrosbxkXGP0i-Js0iKALK2LFL5oXIpG9Ac&type=album"
+                                        },
+                                        {
+                                            "height": 277,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-30.userapi.com/impg/OLOASzYJYjNW6IyB4XRDXOBOg6eU6CYKeGstdw/3flKwc8tmds.jpg?size=200x277&quality=95&sign=5e1035dc68d219415c7eccebc876ef6d&c_uniq_tag=SbBBIxYxGXVnE9lK5sNU3IqSq3gpzwLwX2sTFbrrq9g&type=album"
+                                        },
+                                        {
+                                            "height": 444,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-30.userapi.com/impg/OLOASzYJYjNW6IyB4XRDXOBOg6eU6CYKeGstdw/3flKwc8tmds.jpg?size=320x444&quality=95&sign=484b739096b1e727643b73de87d79f04&c_uniq_tag=huwdoccVfErIcEil6jbMN98TouF8z9Iz7vhP0ZGYlew&type=album"
+                                        },
+                                        {
+                                            "height": 707,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-30.userapi.com/impg/OLOASzYJYjNW6IyB4XRDXOBOg6eU6CYKeGstdw/3flKwc8tmds.jpg?size=510x707&quality=95&sign=e17c789c8b830470c1e02b31bffe655c&c_uniq_tag=idcwlvjqV0xFPoiNomg_TTWkbm2Zg9mWi4nCfaAox_I&type=album"
+                                        }
+                                    ],
+                                    "text": "🌈А у нас  хлопковые сарафаны,свободного🌈 кроя,брители регулируются по длине 👍\nСбоку потайная молния ⚡️\n✔️цена 800₽🔥🔥🔥\n✔️цена упаковкой 700₽(5 шт*700₽)\nРазмеры 122,128,134,140,146/152(в размер)\nМодель рост 140,сарафан 140‼️фото живые,наши",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682700568,
+                                    "id": 457332554,
+                                    "owner_id": 445215003,
+                                    "access_key": "3f294c123344251a00",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 52,
+                                            "url": "https://sun1-97.userapi.com/impg/jQTaJoXUc4QBqVOiXtxevypopilJ_zJkoUYAMA/nP5gxb4D9jw.jpg?size=52x75&quality=95&sign=ea20e883eed160fba82afcb3737f18b9&c_uniq_tag=iVoVAuPmY3Xz50zFwFGMbm1ELqwH294kqJhUDEow-Z8&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 90,
+                                            "url": "https://sun1-97.userapi.com/impg/jQTaJoXUc4QBqVOiXtxevypopilJ_zJkoUYAMA/nP5gxb4D9jw.jpg?size=90x130&quality=95&sign=c1a3bbc2a311eda9e48234de627872f1&c_uniq_tag=l7jMzuM9pP4adDzNplMgKyFtPspHfSYbEw4gKkEGRxs&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 419,
+                                            "url": "https://sun1-97.userapi.com/impg/jQTaJoXUc4QBqVOiXtxevypopilJ_zJkoUYAMA/nP5gxb4D9jw.jpg?size=419x604&quality=95&sign=ff32b7225d606e19b17ca1ce0c46ed2a&c_uniq_tag=MTbkAUjkiyfVJ-YtcLaP47jNYhMr2tqMqAsSMo9goEI&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 559,
+                                            "url": "https://sun1-97.userapi.com/impg/jQTaJoXUc4QBqVOiXtxevypopilJ_zJkoUYAMA/nP5gxb4D9jw.jpg?size=559x807&quality=95&sign=3009b826ebe216965e639563e6351525&c_uniq_tag=rfQqgSCTMaZGVIykaGCoLaymNmHWJR_YBVWmAjcqPGs&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 749,
+                                            "url": "https://sun1-97.userapi.com/impg/jQTaJoXUc4QBqVOiXtxevypopilJ_zJkoUYAMA/nP5gxb4D9jw.jpg?size=749x1080&quality=95&sign=4b2c8955b8da67f888841deac28acb44&c_uniq_tag=C0yX3c7_gLRSGJN5oGherzRarD-_xm2e28K6s6yD0ac&type=album"
+                                        },
+                                        {
+                                            "height": 2160,
+                                            "type": "w",
+                                            "width": 1497,
+                                            "url": "https://sun1-97.userapi.com/impg/jQTaJoXUc4QBqVOiXtxevypopilJ_zJkoUYAMA/nP5gxb4D9jw.jpg?size=1497x2160&quality=95&sign=f9967c49e3cc97a2ce4efdd62f27c3d9&c_uniq_tag=5qOxj800hg8j3LsGjiOkiuWfwLSkXWwqDx1VLQY8o4Y&type=album"
+                                        },
+                                        {
+                                            "height": 188,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-97.userapi.com/impg/jQTaJoXUc4QBqVOiXtxevypopilJ_zJkoUYAMA/nP5gxb4D9jw.jpg?size=130x188&quality=95&sign=5c5466e30ef39f54a013e7455081fa85&c_uniq_tag=3HtbNHvmG3vV21xS-Uyctw0CUn9Ev9Mjs7tKU16DZAQ&type=album"
+                                        },
+                                        {
+                                            "height": 289,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-97.userapi.com/impg/jQTaJoXUc4QBqVOiXtxevypopilJ_zJkoUYAMA/nP5gxb4D9jw.jpg?size=200x289&quality=95&sign=87654f76d9861b6eaa91cf6c40c40604&c_uniq_tag=XA2-CBxg4C8P-2WEPHs2r5nB9Q464Qqh-XN6ZM-yqTM&type=album"
+                                        },
+                                        {
+                                            "height": 462,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-97.userapi.com/impg/jQTaJoXUc4QBqVOiXtxevypopilJ_zJkoUYAMA/nP5gxb4D9jw.jpg?size=320x462&quality=95&sign=2811b0ac8714394863ff5bc5d9e14683&c_uniq_tag=976v9DXR_KkB-CknnXDSV2ndkYA9RyVrHd-8ef6k2FE&type=album"
+                                        },
+                                        {
+                                            "height": 736,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-97.userapi.com/impg/jQTaJoXUc4QBqVOiXtxevypopilJ_zJkoUYAMA/nP5gxb4D9jw.jpg?size=510x736&quality=95&sign=2b69a61bfa57a52c5198bbedd4d70380&c_uniq_tag=aesXekWhPKRrmUDeHBpMX24-ZKC-ft7lmYrhcjqeuqA&type=album"
+                                        }
+                                    ],
+                                    "text": "🌈А у нас  хлопковые сарафаны,свободного🌈 кроя,брители регулируются по длине 👍\nСбоку потайная молния ⚡️\n✔️цена 800₽🔥🔥🔥\n✔️цена упаковкой 700₽(5 шт*700₽)\nРазмеры 122,128,134,140,146/152(в размер)\nМодель рост 140,сарафан 140‼️фото живые,наши",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682701658,
+                                    "id": 457332568,
+                                    "owner_id": 445215003,
+                                    "access_key": "5ccb5fb9237a7d1750",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 56,
+                                            "url": "https://sun1-23.userapi.com/impg/NQM6PuMv2sB9q38jRNZ0m1Kdou9xbyoYUY-7ow/7Vlk0NfGEvk.jpg?size=56x75&quality=95&sign=ae81aa2e14b615cbcee44c020514ea90&c_uniq_tag=-G4k7eii-CLhirCnFriYSWJokwUiWZRMB8VEhNZ7xTI&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 97,
+                                            "url": "https://sun1-23.userapi.com/impg/NQM6PuMv2sB9q38jRNZ0m1Kdou9xbyoYUY-7ow/7Vlk0NfGEvk.jpg?size=97x130&quality=95&sign=b009876c10934776db69469535c671e2&c_uniq_tag=iQi6yJxnvBSwwmoNKbAXMmB9GeGzkYQi6H7Nd_YZZaU&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 452,
+                                            "url": "https://sun1-23.userapi.com/impg/NQM6PuMv2sB9q38jRNZ0m1Kdou9xbyoYUY-7ow/7Vlk0NfGEvk.jpg?size=452x604&quality=95&sign=c484a06a9b809010963cf2a8b62061f4&c_uniq_tag=JCvceEa0RlN6hu0Gru3Urc5kfuzbmRff-M4ln-7SaGg&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 604,
+                                            "url": "https://sun1-23.userapi.com/impg/NQM6PuMv2sB9q38jRNZ0m1Kdou9xbyoYUY-7ow/7Vlk0NfGEvk.jpg?size=604x807&quality=95&sign=1d75d1a0b550dc6ece3c179722e105b4&c_uniq_tag=GAO1t4GBo52BeKbqBR_Nyrgs_e11CedwFHZI0L2fzSM&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 808,
+                                            "url": "https://sun1-23.userapi.com/impg/NQM6PuMv2sB9q38jRNZ0m1Kdou9xbyoYUY-7ow/7Vlk0NfGEvk.jpg?size=808x1080&quality=95&sign=e86abf20deb4c16e3ef1907b50bae107&c_uniq_tag=OBXbWq-qwvuBhyj0ZAOmib6h_zsIhT2Ak7bnfQn1jvs&type=album"
+                                        },
+                                        {
+                                            "height": 2160,
+                                            "type": "w",
+                                            "width": 1615,
+                                            "url": "https://sun1-23.userapi.com/impg/NQM6PuMv2sB9q38jRNZ0m1Kdou9xbyoYUY-7ow/7Vlk0NfGEvk.jpg?size=1615x2160&quality=95&sign=38548ab2a8158c8cae6f213fd88976f2&c_uniq_tag=rn56xMIN18y_KwULUEM_dhhE8hL87m8wq1kSpCxrZdA&type=album"
+                                        },
+                                        {
+                                            "height": 174,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-23.userapi.com/impg/NQM6PuMv2sB9q38jRNZ0m1Kdou9xbyoYUY-7ow/7Vlk0NfGEvk.jpg?size=130x174&quality=95&sign=4e2a67c732e7e7590665ab04e576de40&c_uniq_tag=iDPVk7nmZqsFYcfiHe2AjvI22WVmftR6QzitvaAhBoA&type=album"
+                                        },
+                                        {
+                                            "height": 267,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-23.userapi.com/impg/NQM6PuMv2sB9q38jRNZ0m1Kdou9xbyoYUY-7ow/7Vlk0NfGEvk.jpg?size=200x267&quality=95&sign=1a1881a5169d6f0c05ea88b2d332de74&c_uniq_tag=jcwqnyRebzDHOskqDkozBtzszHk03ShLq95FY9dGcH8&type=album"
+                                        },
+                                        {
+                                            "height": 428,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-23.userapi.com/impg/NQM6PuMv2sB9q38jRNZ0m1Kdou9xbyoYUY-7ow/7Vlk0NfGEvk.jpg?size=320x428&quality=95&sign=dd39ed984ffa286bbac295f17cab3ef9&c_uniq_tag=MnPOTcKpBy9szvDQZSSTOkQ0GOxpgeGy4ly2gv0Y9UY&type=album"
+                                        },
+                                        {
+                                            "height": 682,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-23.userapi.com/impg/NQM6PuMv2sB9q38jRNZ0m1Kdou9xbyoYUY-7ow/7Vlk0NfGEvk.jpg?size=510x682&quality=95&sign=88c9abfb9f621216aacaef854fc751e1&c_uniq_tag=Cuk3WFvdvmC1giF0INgxObYBTbo9_OgXfjtDpDz1t60&type=album"
+                                        }
+                                    ],
+                                    "text": "🌈А у нас  хлопковые сарафаны,свободного🌈 кроя,брители регулируются по длине 👍\nСбоку потайная молния ⚡️\n✔️цена 800₽🔥🔥🔥\n✔️цена упаковкой 700₽(5 шт*700₽)\nРазмеры 122,128,134,140,146/152(в размер)\nМодель рост 140,сарафан 140‼️фото живые,наши",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682700569,
+                                    "id": 457332556,
+                                    "owner_id": 445215003,
+                                    "access_key": "44e4cb39f9ebd77f0d",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 61,
+                                            "url": "https://sun1-54.userapi.com/impg/302C4EYP6RmnkKPLmRyfv69Kq3RKA0GUTVUZFQ/pkZt7SuWQsY.jpg?size=61x75&quality=95&sign=2006f3dfbf8b06341fe63df390a3d8de&c_uniq_tag=gkkGTfj4uQezwRQgv-u1geVQj8tvBZuVinvEU9qluQw&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 105,
+                                            "url": "https://sun1-54.userapi.com/impg/302C4EYP6RmnkKPLmRyfv69Kq3RKA0GUTVUZFQ/pkZt7SuWQsY.jpg?size=105x130&quality=95&sign=cfe9777c78f6f434368819d8143b5e16&c_uniq_tag=ltW_5hX3sMDxcn0hf7lcW_2-R3uFNfNLoFSXpG4Lg94&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 489,
+                                            "url": "https://sun1-54.userapi.com/impg/302C4EYP6RmnkKPLmRyfv69Kq3RKA0GUTVUZFQ/pkZt7SuWQsY.jpg?size=489x604&quality=95&sign=8c38871aa8e06007aabdec45ac7a8ff2&c_uniq_tag=zfDdx81UdSrBqwlCSG3mfLqkGNr2SHodPI49-To006A&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 654,
+                                            "url": "https://sun1-54.userapi.com/impg/302C4EYP6RmnkKPLmRyfv69Kq3RKA0GUTVUZFQ/pkZt7SuWQsY.jpg?size=654x807&quality=95&sign=8d18667874870dee5c501e6a78cbc92b&c_uniq_tag=yriLje2GcxR-MMsNjC6qs_oc_AeUJkG2KSRubEQKnKg&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 875,
+                                            "url": "https://sun1-54.userapi.com/impg/302C4EYP6RmnkKPLmRyfv69Kq3RKA0GUTVUZFQ/pkZt7SuWQsY.jpg?size=875x1080&quality=95&sign=f08ce894ce087648733f2ece46dd0ab3&c_uniq_tag=nca3XQl9-8axkQC3ptEsVRRqflwW34eDOhYveByn12s&type=album"
+                                        },
+                                        {
+                                            "height": 2160,
+                                            "type": "w",
+                                            "width": 1750,
+                                            "url": "https://sun1-54.userapi.com/impg/302C4EYP6RmnkKPLmRyfv69Kq3RKA0GUTVUZFQ/pkZt7SuWQsY.jpg?size=1750x2160&quality=95&sign=29d7b86b19d86d4197dae1b7c3fbc3ac&c_uniq_tag=VialynaU4e06AOBrwragZif35e0X0M7bF1icJbo412Y&type=album"
+                                        },
+                                        {
+                                            "height": 160,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-54.userapi.com/impg/302C4EYP6RmnkKPLmRyfv69Kq3RKA0GUTVUZFQ/pkZt7SuWQsY.jpg?size=130x160&quality=95&sign=5634ed181c8631e4dc6ddfc66503530b&c_uniq_tag=1I14MeGDW_2bTQQMjNzcKr8rydO5-KlFXOcS-Ko2YJM&type=album"
+                                        },
+                                        {
+                                            "height": 247,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-54.userapi.com/impg/302C4EYP6RmnkKPLmRyfv69Kq3RKA0GUTVUZFQ/pkZt7SuWQsY.jpg?size=200x247&quality=95&sign=bae8e87e96d1d2ec77d0c1e4debb56bc&c_uniq_tag=Qll5ELkXU3gQx6_2YWh3U4_t80oruD6sVV2GQqqkQws&type=album"
+                                        },
+                                        {
+                                            "height": 395,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-54.userapi.com/impg/302C4EYP6RmnkKPLmRyfv69Kq3RKA0GUTVUZFQ/pkZt7SuWQsY.jpg?size=320x395&quality=95&sign=12fdb5cec9630c84e34830d1c4c9f814&c_uniq_tag=5bbooGNfIpSHLXHhc4TdJ2GOnHGVrBJ4uax3eflEoHs&type=album"
+                                        },
+                                        {
+                                            "height": 630,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-54.userapi.com/impg/302C4EYP6RmnkKPLmRyfv69Kq3RKA0GUTVUZFQ/pkZt7SuWQsY.jpg?size=510x630&quality=95&sign=255faf6e7d7c38202f97012e03f8449b&c_uniq_tag=vJPFnte2oiOtFXswiYEaajTMsG2mOOSh5jO5jw6_7po&type=album"
+                                        }
+                                    ],
+                                    "text": "🌈А у нас  хлопковые сарафаны,свободного🌈 кроя,брители регулируются по длине 👍\nСбоку потайная молния ⚡️\n✔️цена 800₽🔥🔥🔥\n✔️цена упаковкой 700₽(5 шт*700₽)\nРазмеры 122,128,134,140,146/152(в размер)\nМодель рост 140,сарафан 140‼️фото живые,наши",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682700944,
+                                    "id": 457332566,
+                                    "owner_id": 445215003,
+                                    "access_key": "1be6c0982e8c14c821",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 75,
+                                            "url": "https://sun1-13.userapi.com/impg/NmEx_ofyqPxynoHA2mmyXZj12JR5egmrkdlUfw/PrNKY4GRs20.jpg?size=75x75&quality=95&sign=581a0a07ca767fa4ea60f17fce0abf9b&c_uniq_tag=RIuLLswPbdelWdnEXgjbAg6Z1Ws3INgE98z8TLjfLDs&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 130,
+                                            "url": "https://sun1-13.userapi.com/impg/NmEx_ofyqPxynoHA2mmyXZj12JR5egmrkdlUfw/PrNKY4GRs20.jpg?size=130x130&quality=95&sign=7b1c704d0aa3116f94469e6eafb88540&c_uniq_tag=OLz_HewOT0Z3JnZOs1euMRyagkuVi_Q-jMsXLJFzy90&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 604,
+                                            "url": "https://sun1-13.userapi.com/impg/NmEx_ofyqPxynoHA2mmyXZj12JR5egmrkdlUfw/PrNKY4GRs20.jpg?size=604x604&quality=95&sign=0c865933bcd9c28f29a20ae4769feffa&c_uniq_tag=KAyuQkh0eAXxTTXqzKBN_Y1mYWysNhMrLv3LkSPq0GE&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 807,
+                                            "url": "https://sun1-13.userapi.com/impg/NmEx_ofyqPxynoHA2mmyXZj12JR5egmrkdlUfw/PrNKY4GRs20.jpg?size=807x807&quality=95&sign=613a8f1dc86726494f0aa563b56842c4&c_uniq_tag=ZX1oSgo66_1HCESaPrxVeYoxx5hke1DOqHHxif5f-I8&type=album"
+                                        },
+                                        {
+                                            "height": 1280,
+                                            "type": "z",
+                                            "width": 1280,
+                                            "url": "https://sun1-13.userapi.com/impg/NmEx_ofyqPxynoHA2mmyXZj12JR5egmrkdlUfw/PrNKY4GRs20.jpg?size=1280x1280&quality=95&sign=d6ed6148b93c5c53e62dbfe9f904d442&c_uniq_tag=6qRMTFpCHCm2GaHp_5TaVOryYj1Ho0veP9Z1xc8ofKM&type=album"
+                                        },
+                                        {
+                                            "height": 2560,
+                                            "type": "w",
+                                            "width": 2560,
+                                            "url": "https://sun1-13.userapi.com/impg/NmEx_ofyqPxynoHA2mmyXZj12JR5egmrkdlUfw/PrNKY4GRs20.jpg?size=2560x2560&quality=95&sign=474ba734fedf73cdcf6f5a8a430a8d2c&c_uniq_tag=HE4Ge8XMivW2Wr1cEO_OoSA-dinXnOBZoFXjHMVAsXw&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-13.userapi.com/impg/NmEx_ofyqPxynoHA2mmyXZj12JR5egmrkdlUfw/PrNKY4GRs20.jpg?size=130x130&quality=95&sign=7b1c704d0aa3116f94469e6eafb88540&c_uniq_tag=OLz_HewOT0Z3JnZOs1euMRyagkuVi_Q-jMsXLJFzy90&type=album"
+                                        },
+                                        {
+                                            "height": 200,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-13.userapi.com/impg/NmEx_ofyqPxynoHA2mmyXZj12JR5egmrkdlUfw/PrNKY4GRs20.jpg?size=200x200&quality=95&sign=39a6ff634c5da12546d171d58749684d&c_uniq_tag=SZsCheoA6qeJYZ_D7stgMrVTEe7eq6LiqqbAJxB6pZI&type=album"
+                                        },
+                                        {
+                                            "height": 320,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-13.userapi.com/impg/NmEx_ofyqPxynoHA2mmyXZj12JR5egmrkdlUfw/PrNKY4GRs20.jpg?size=320x320&quality=95&sign=dcbe88ff59160a70f9c4ecfde3f50acc&c_uniq_tag=JA604uaI5pF9t9L5mrALFZSDxstnAqxmDuulP3HO_J8&type=album"
+                                        },
+                                        {
+                                            "height": 510,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-13.userapi.com/impg/NmEx_ofyqPxynoHA2mmyXZj12JR5egmrkdlUfw/PrNKY4GRs20.jpg?size=510x510&quality=95&sign=9cfbe8b81bb67e64779c23979d88bb5f&c_uniq_tag=rl7_OEcMxEPq7Kerra-TIkBaaFtboj8cs_W4rVN98S8&type=album"
+                                        }
+                                    ],
+                                    "text": "🌈А у нас  хлопковые сарафаны,свободного🌈 кроя,брители регулируются по длине 👍\nСбоку потайная молния ⚡️\n✔️цена 800₽🔥🔥🔥\n✔️цена упаковкой 700₽(5 шт*700₽)\nРазмеры 122,128,134,140,146/152(в размер)\nМодель рост 140,сарафан 140‼️фото живые,наши",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682700569,
+                                    "id": 457332555,
+                                    "owner_id": 445215003,
+                                    "access_key": "4a77ec4f4fd74c930e",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 67,
+                                            "url": "https://sun1-14.userapi.com/impg/jab4r8PeeKUNwuz9p34P9rRO2HVVHmaCzfhB4Q/n-Vf97oLAyw.jpg?size=67x75&quality=95&sign=d461f5b9fb0e2e62eb8613c44c853243&c_uniq_tag=Ze1moHhyT1YphlVao31jtRbOPySBzrudyhfRNUirMqA&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 117,
+                                            "url": "https://sun1-14.userapi.com/impg/jab4r8PeeKUNwuz9p34P9rRO2HVVHmaCzfhB4Q/n-Vf97oLAyw.jpg?size=117x130&quality=95&sign=b3c78c752a4b407f2a9ff5d5e7812ed3&c_uniq_tag=TQdnb_k6bxSjsaV0R79-ZpUbS9M-3FajUxDJAW5MMts&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 543,
+                                            "url": "https://sun1-14.userapi.com/impg/jab4r8PeeKUNwuz9p34P9rRO2HVVHmaCzfhB4Q/n-Vf97oLAyw.jpg?size=543x604&quality=95&sign=087de2a29264179d9e7866b40ec87fd7&c_uniq_tag=aLbm1LBdP5pdrwY1Fh_PO36ubsc-ok2a95x_1ZArUMg&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 726,
+                                            "url": "https://sun1-14.userapi.com/impg/jab4r8PeeKUNwuz9p34P9rRO2HVVHmaCzfhB4Q/n-Vf97oLAyw.jpg?size=726x807&quality=95&sign=15d1de24412a0dce645f63201e4ef829&c_uniq_tag=vxLnJi_FbjdN9_jvBKAnAgtnvBEF2Hdvryzo7vru3S8&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 971,
+                                            "url": "https://sun1-14.userapi.com/impg/jab4r8PeeKUNwuz9p34P9rRO2HVVHmaCzfhB4Q/n-Vf97oLAyw.jpg?size=971x1080&quality=95&sign=d40302408c1c279cf6e4e7deba89fec0&c_uniq_tag=RBCCltmAZpLPlHlY_ApWua9h-msl4UcYyV16pMMkyvU&type=album"
+                                        },
+                                        {
+                                            "height": 1801,
+                                            "type": "w",
+                                            "width": 1620,
+                                            "url": "https://sun1-14.userapi.com/impg/jab4r8PeeKUNwuz9p34P9rRO2HVVHmaCzfhB4Q/n-Vf97oLAyw.jpg?size=1620x1801&quality=95&sign=ee4021dd967a4718358c74ff3ee4c21e&c_uniq_tag=vxoXHHoJQKJNdVgNOtXoeSjFMarq6KlHRCQK2Pr4Xas&type=album"
+                                        },
+                                        {
+                                            "height": 145,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-14.userapi.com/impg/jab4r8PeeKUNwuz9p34P9rRO2HVVHmaCzfhB4Q/n-Vf97oLAyw.jpg?size=130x145&quality=95&sign=e2f2fefb7ba3a5543f06d9f27bb6d0b3&c_uniq_tag=ObFsSuIgnew8A8miFozi1qIpVm1EtbhqMnufG0alFeE&type=album"
+                                        },
+                                        {
+                                            "height": 222,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-14.userapi.com/impg/jab4r8PeeKUNwuz9p34P9rRO2HVVHmaCzfhB4Q/n-Vf97oLAyw.jpg?size=200x222&quality=95&sign=ad382998c552f8b6dc5bbbe6df865c66&c_uniq_tag=uGE_myJvMcNYMAdCfCsMnjEwsaAoCe8H9nj647BT2Sg&type=album"
+                                        },
+                                        {
+                                            "height": 356,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-14.userapi.com/impg/jab4r8PeeKUNwuz9p34P9rRO2HVVHmaCzfhB4Q/n-Vf97oLAyw.jpg?size=320x356&quality=95&sign=33a362c7bf33894678ea44452173e6c9&c_uniq_tag=c_GPbDSM7xbQX2sAwnd9ljLJm0XdD0-Uokfm4RbeNQs&type=album"
+                                        },
+                                        {
+                                            "height": 567,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-14.userapi.com/impg/jab4r8PeeKUNwuz9p34P9rRO2HVVHmaCzfhB4Q/n-Vf97oLAyw.jpg?size=510x567&quality=95&sign=7314b6a6569a2401ace2869af648887c&c_uniq_tag=UUhuJG3x68euTwhKaIlXIwbOi5oiVr0tB8XKVrYyfVo&type=album"
+                                        }
+                                    ],
+                                    "text": "🌈А у нас  хлопковые сарафаны,свободного🌈 кроя,брители регулируются по длине 👍\nСбоку потайная молния ⚡️\n✔️цена 800₽🔥🔥🔥\n✔️цена упаковкой 700₽(5 шт*700₽)\nРазмеры 122,128,134,140,146/152(в размер)\nМодель рост 140,сарафан 140‼️фото живые,наши",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682700645,
+                                    "id": 457332562,
+                                    "owner_id": 445215003,
+                                    "access_key": "5798c2413b8c8679fe",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 75,
+                                            "url": "https://sun1-55.userapi.com/impg/cnvViSCbA7wPHs0b3zoyXbbH4y3BpiaiXrXxCg/IunNvw84H_4.jpg?size=75x75&quality=95&sign=c7e88af3a78e3cc8a03b3e624d154de6&c_uniq_tag=yZXGGF4UoLGM3jxLga4abz5oy7XwYi073z3MAwH_p3c&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 130,
+                                            "url": "https://sun1-55.userapi.com/impg/cnvViSCbA7wPHs0b3zoyXbbH4y3BpiaiXrXxCg/IunNvw84H_4.jpg?size=130x130&quality=95&sign=51962a324844dc9192f22449b2b37125&c_uniq_tag=MmS_TvXX7dcqMA8W17WBHnqyxlWDzlKldRVAdt1lROA&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 604,
+                                            "url": "https://sun1-55.userapi.com/impg/cnvViSCbA7wPHs0b3zoyXbbH4y3BpiaiXrXxCg/IunNvw84H_4.jpg?size=604x604&quality=95&sign=9a25075f6e6e3d656064a5d7bd04aed4&c_uniq_tag=c0l-dwl2lexL5TTj5M2GiQJ1BVAbAZkzmXmtyFXEtLs&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 807,
+                                            "url": "https://sun1-55.userapi.com/impg/cnvViSCbA7wPHs0b3zoyXbbH4y3BpiaiXrXxCg/IunNvw84H_4.jpg?size=807x807&quality=95&sign=d86b4abb7768589d65b8e7562ac8e5ca&c_uniq_tag=MeL6qSVZcHzCDa7wDAXg111Lb2B-bBJNFMDnZlrDCfg&type=album"
+                                        },
+                                        {
+                                            "height": 1280,
+                                            "type": "z",
+                                            "width": 1280,
+                                            "url": "https://sun1-55.userapi.com/impg/cnvViSCbA7wPHs0b3zoyXbbH4y3BpiaiXrXxCg/IunNvw84H_4.jpg?size=1280x1280&quality=95&sign=3eb827dd28718f03811a680c76420c51&c_uniq_tag=AqMCqapQ-C5ClBeG_MIdoVgF8ea7vgyLtL2as5OHfys&type=album"
+                                        },
+                                        {
+                                            "height": 2560,
+                                            "type": "w",
+                                            "width": 2560,
+                                            "url": "https://sun1-55.userapi.com/impg/cnvViSCbA7wPHs0b3zoyXbbH4y3BpiaiXrXxCg/IunNvw84H_4.jpg?size=2560x2560&quality=95&sign=f169a213e4a07789f669bd0b1beb7f87&c_uniq_tag=I6Ob7DQBdievyr9INmHkDw_DaU6fqidQTkW6GETNglI&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-55.userapi.com/impg/cnvViSCbA7wPHs0b3zoyXbbH4y3BpiaiXrXxCg/IunNvw84H_4.jpg?size=130x130&quality=95&sign=51962a324844dc9192f22449b2b37125&c_uniq_tag=MmS_TvXX7dcqMA8W17WBHnqyxlWDzlKldRVAdt1lROA&type=album"
+                                        },
+                                        {
+                                            "height": 200,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-55.userapi.com/impg/cnvViSCbA7wPHs0b3zoyXbbH4y3BpiaiXrXxCg/IunNvw84H_4.jpg?size=200x200&quality=95&sign=0d6b4a1e8658382aaf004a6c21b05368&c_uniq_tag=oAn7Tk1B7Zfe8EaPln1FYFSZe-N6oyKvylaHhs21KWQ&type=album"
+                                        },
+                                        {
+                                            "height": 320,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-55.userapi.com/impg/cnvViSCbA7wPHs0b3zoyXbbH4y3BpiaiXrXxCg/IunNvw84H_4.jpg?size=320x320&quality=95&sign=11f5344a2812a9237e24ad22944585aa&c_uniq_tag=PBbcFUg1aM0Xp7YMgZcw1g2I1sEntbJCgJ42XJ3P7RM&type=album"
+                                        },
+                                        {
+                                            "height": 510,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-55.userapi.com/impg/cnvViSCbA7wPHs0b3zoyXbbH4y3BpiaiXrXxCg/IunNvw84H_4.jpg?size=510x510&quality=95&sign=ae6d4f7aec693506563f485fef00fce2&c_uniq_tag=ukeWoCYalOHz_M0QsDQyF6xCGdx77dh-8CW7goRgSaI&type=album"
+                                        }
+                                    ],
+                                    "text": "🌈А у нас  хлопковые сарафаны,свободного🌈 кроя,брители регулируются по длине 👍\nСбоку потайная молния ⚡️\n✔️цена 800₽🔥🔥🔥\n✔️цена упаковкой 700₽(5 шт*700₽)\nРазмеры 122,128,134,140,146/152(в размер)\nМодель рост 140,сарафан 140‼️фото живые,наши",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682700647,
+                                    "id": 457332563,
+                                    "owner_id": 445215003,
+                                    "access_key": "f8284bfeb0c34e23f9",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 75,
+                                            "url": "https://sun1-24.userapi.com/impg/BPK3xxHTZpB0UXEzwYPXOxdsq0GsuNKJKoVFxg/9f1Tm0FNAmU.jpg?size=75x75&quality=95&sign=a65a227d314ae7df7c371c7b3e2d20db&c_uniq_tag=9H9ulJ1xNf8Pd61d-JPV4e5y4JcnDFEdu8wEUznoHBI&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 130,
+                                            "url": "https://sun1-24.userapi.com/impg/BPK3xxHTZpB0UXEzwYPXOxdsq0GsuNKJKoVFxg/9f1Tm0FNAmU.jpg?size=130x130&quality=95&sign=3338abbe655001e70b91bdf5539dd40e&c_uniq_tag=jUbb8EOgnhjTWxrkbbkYy6ryvVdm4NtN319x-IfKRww&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 604,
+                                            "url": "https://sun1-24.userapi.com/impg/BPK3xxHTZpB0UXEzwYPXOxdsq0GsuNKJKoVFxg/9f1Tm0FNAmU.jpg?size=604x604&quality=95&sign=2b13dc66863c24f914a465621f2e3fd8&c_uniq_tag=CdGlSoLyKeKL5CuJHMINkoD-a7mOBMdhW4GyAKpHZI4&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 807,
+                                            "url": "https://sun1-24.userapi.com/impg/BPK3xxHTZpB0UXEzwYPXOxdsq0GsuNKJKoVFxg/9f1Tm0FNAmU.jpg?size=807x807&quality=95&sign=527c0cdddf31d8bf171218b315fcb205&c_uniq_tag=NDW_yz28vTwbgGucSP42Xf3WmctOZu_3wayHPndlyAs&type=album"
+                                        },
+                                        {
+                                            "height": 1280,
+                                            "type": "z",
+                                            "width": 1280,
+                                            "url": "https://sun1-24.userapi.com/impg/BPK3xxHTZpB0UXEzwYPXOxdsq0GsuNKJKoVFxg/9f1Tm0FNAmU.jpg?size=1280x1280&quality=95&sign=7abaeb5cf6a2cd09140a3082cf5d8ff5&c_uniq_tag=heodMkCMit22WJG8Npi1lbwscB_pV591taHJ9jMZeZI&type=album"
+                                        },
+                                        {
+                                            "height": 2560,
+                                            "type": "w",
+                                            "width": 2560,
+                                            "url": "https://sun1-24.userapi.com/impg/BPK3xxHTZpB0UXEzwYPXOxdsq0GsuNKJKoVFxg/9f1Tm0FNAmU.jpg?size=2560x2560&quality=95&sign=e9658418ed6adc1e0df67ec405cef847&c_uniq_tag=z58YyC5sUNfxaT22PCcrdO1ObfYHTUnEgpdH8RJUpss&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-24.userapi.com/impg/BPK3xxHTZpB0UXEzwYPXOxdsq0GsuNKJKoVFxg/9f1Tm0FNAmU.jpg?size=130x130&quality=95&sign=3338abbe655001e70b91bdf5539dd40e&c_uniq_tag=jUbb8EOgnhjTWxrkbbkYy6ryvVdm4NtN319x-IfKRww&type=album"
+                                        },
+                                        {
+                                            "height": 200,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-24.userapi.com/impg/BPK3xxHTZpB0UXEzwYPXOxdsq0GsuNKJKoVFxg/9f1Tm0FNAmU.jpg?size=200x200&quality=95&sign=e59b13ab82a4f02f5502c089483c1c65&c_uniq_tag=VJHbLf2ZGkqfbJTnJoyGS7Y7KEJtKzgu2RkQbr4NFkk&type=album"
+                                        },
+                                        {
+                                            "height": 320,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-24.userapi.com/impg/BPK3xxHTZpB0UXEzwYPXOxdsq0GsuNKJKoVFxg/9f1Tm0FNAmU.jpg?size=320x320&quality=95&sign=9cbcbd16993b7151ec2c6ff2a3af6f63&c_uniq_tag=ddAFVYO_oU1Iwtu01ni9QzXwzbENOK5aGzCTh-a_l9U&type=album"
+                                        },
+                                        {
+                                            "height": 510,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-24.userapi.com/impg/BPK3xxHTZpB0UXEzwYPXOxdsq0GsuNKJKoVFxg/9f1Tm0FNAmU.jpg?size=510x510&quality=95&sign=78908d0f9d5631c8b935da31616aa083&c_uniq_tag=pc1sF75Y2Ked93GvS_lwifTDdlI5U0PNpB_zZpGggX4&type=album"
+                                        }
+                                    ],
+                                    "text": "🌈А у нас  хлопковые сарафаны,свободного🌈 кроя,брители регулируются по длине 👍\nСбоку потайная молния ⚡️\n✔️цена 800₽🔥🔥🔥\n✔️цена упаковкой 700₽(5 шт*700₽)\nРазмеры 122,128,134,140,146/152(в размер)\nМодель рост 140,сарафан 140‼️фото живые,наши",
+                                    "has_tags": false
+                                }
+                            }
+                        ],
+                        "date": 1682701476,
+                        "from_id": 445215003,
+                        "id": 21173,
+                        "owner_id": 445215003,
+                        "post_source": {
+                            "platform": "iphone",
+                            "type": "api"
+                        },
+                        "post_type": "post",
+                        "text": "🌈А у нас  хлопковые сарафаны,свободного🌈 кроя,брители регулируются по длине 👍\nСбоку потайная молния ⚡️\n✔️цена 800₽🔥🔥🔥\n✔️цена упаковкой 700₽(5 шт*700₽)\nРазмеры 122,128,134,140,146/152(в размер)\nМодель рост 140,сарафан 140‼️фото живые,наши"
+                    }
+                ],
+                "donut": {
+                    "is_donut": false
+                },
+                "comments": {
+                    "can_post": 0,
+                    "count": 0
+                },
+                "marked_as_ads": 0,
+                "short_text_rate": 0.8,
+                "hash": "8M0Fv7cFXZofLVFJoAZCEavh_o0n",
+                "type": "post",
+                "attachments": [],
+                "date": 1682701810,
+                "from_id": -167527030,
+                "id": 12065,
+                "is_favorite": false,
+                "likes": {
+                    "can_like": 1,
+                    "count": 5,
+                    "user_likes": 0,
+                    "can_publish": 1,
+                    "repost_disabled": false
+                },
+                "owner_id": -167527030,
+                "post_source": {
+                    "platform": "iphone",
+                    "type": "api"
+                },
+                "post_type": "post",
+                "reposts": {
+                    "count": 12,
+                    "user_reposted": 0
+                },
+                "text": "",
+                "views": {
+                    "count": 2173
+                }
+            },
+            {
+                "copy_history": [
+                    {
+                        "type": "post",
+                        "attachments": [
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682667363,
+                                    "id": 457332523,
+                                    "owner_id": 445215003,
+                                    "access_key": "b0dd52b3735e5e12fc",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 50,
+                                            "url": "https://sun1-57.userapi.com/impg/keqpnfyKXd64a0bZBVYXveA3ikTAipsvVduHDg/qj7Sk30UwXg.jpg?size=50x75&quality=95&sign=f55d8587e707852bdd1106167246e06b&c_uniq_tag=bFjO58ed90GtTe3Gw_az0U-8Fbi99XRQw2WS3BBtpfI&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 87,
+                                            "url": "https://sun1-57.userapi.com/impg/keqpnfyKXd64a0bZBVYXveA3ikTAipsvVduHDg/qj7Sk30UwXg.jpg?size=87x130&quality=95&sign=5f49881e5dcf1fbef917da24f870bc12&c_uniq_tag=EXC-ZWdWIu8vd1J8WRAaJcrjLQsFJHuzXoQ7aAaix54&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 404,
+                                            "url": "https://sun1-57.userapi.com/impg/keqpnfyKXd64a0bZBVYXveA3ikTAipsvVduHDg/qj7Sk30UwXg.jpg?size=404x604&quality=95&sign=d7a935062093a759d86297a326cfec00&c_uniq_tag=xRh2ceZLvK1Ak75X4ZosR7Oj8Ht03ZMmqykteDzjNPI&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 540,
+                                            "url": "https://sun1-57.userapi.com/impg/keqpnfyKXd64a0bZBVYXveA3ikTAipsvVduHDg/qj7Sk30UwXg.jpg?size=540x807&quality=95&sign=c114ad73b51f591a7f14b4dc459c586a&c_uniq_tag=7kqPjjMTC8TB0bpLCM9maBtjtYYTb7FYa1rRKrkh2nI&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 722,
+                                            "url": "https://sun1-57.userapi.com/impg/keqpnfyKXd64a0bZBVYXveA3ikTAipsvVduHDg/qj7Sk30UwXg.jpg?size=722x1080&quality=95&sign=7c1a536d64de6f729a2006e9c03286bb&c_uniq_tag=yQin-UFZ_-LOLT5QSefrbgNd9Gud3WjxYRIUq7UzKjY&type=album"
+                                        },
+                                        {
+                                            "height": 2160,
+                                            "type": "w",
+                                            "width": 1445,
+                                            "url": "https://sun1-57.userapi.com/impg/keqpnfyKXd64a0bZBVYXveA3ikTAipsvVduHDg/qj7Sk30UwXg.jpg?size=1445x2160&quality=95&sign=5f7b6e7a2b8dca3446e531dbe66b7e7c&c_uniq_tag=IJ-n32EqAXpECf2vkL55Ma0Nwx3NfsLB3piWqGqjAaw&type=album"
+                                        },
+                                        {
+                                            "height": 194,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-57.userapi.com/impg/keqpnfyKXd64a0bZBVYXveA3ikTAipsvVduHDg/qj7Sk30UwXg.jpg?size=130x194&quality=95&sign=e49b9469dcaf1ff7627ed67d47bfc31e&c_uniq_tag=QJ6qwAEfg9sqga1OUuSSRncuht74uqoAkKmovqZhv7Q&type=album"
+                                        },
+                                        {
+                                            "height": 299,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-57.userapi.com/impg/keqpnfyKXd64a0bZBVYXveA3ikTAipsvVduHDg/qj7Sk30UwXg.jpg?size=200x299&quality=95&sign=9c53d060092c6edf841507ea5be8692d&c_uniq_tag=fNjrfzBv4FAYfsfD-AsI3SD_c8F-u9W1_iVKFgJexRM&type=album"
+                                        },
+                                        {
+                                            "height": 478,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-57.userapi.com/impg/keqpnfyKXd64a0bZBVYXveA3ikTAipsvVduHDg/qj7Sk30UwXg.jpg?size=320x478&quality=95&sign=a25cd6951e182a2c8eb9d864717854cb&c_uniq_tag=1P5q2CTia6kTCb_1PLRv7Yp90uZib2XxOdOYgnaiVh4&type=album"
+                                        },
+                                        {
+                                            "height": 762,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-57.userapi.com/impg/keqpnfyKXd64a0bZBVYXveA3ikTAipsvVduHDg/qj7Sk30UwXg.jpg?size=510x762&quality=95&sign=d8654e5065d9fc5d06d0cdab8d308e7e&c_uniq_tag=xXO3GHWIt7UC4rkJxdXqghTvUOgTjTQnl7KM59gUsus&type=album"
+                                        }
+                                    ],
+                                    "text": "Хлопковый комплект для активных девчонок 💣\nМайка-топ и спортивные брючки с прорезями\nОригинальная модель 👍👍👍\n▪️цена штучно 1300₽\n▪️цена упаковкой 1200₽(7 шт*1200₽)\nРазмеры 100,110,120,130,140,150,160( в размер)\n——————\nСумочка 👜 800₽",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682667363,
+                                    "id": 457332524,
+                                    "owner_id": 445215003,
+                                    "access_key": "ea6fbefdfd655fae7f",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 49,
+                                            "url": "https://sun1-83.userapi.com/impg/JGJKtEoXusdAnpaP3MA-mVIbRXXoosCWVaAVww/RyO4IHtIC_c.jpg?size=49x75&quality=95&sign=70e69a9dcbe705ecbefa6824be071e7a&c_uniq_tag=c55ORha1BUX-jh_Oi32VxizBVmxOpVCyDOE6z457Amc&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 84,
+                                            "url": "https://sun1-83.userapi.com/impg/JGJKtEoXusdAnpaP3MA-mVIbRXXoosCWVaAVww/RyO4IHtIC_c.jpg?size=84x130&quality=95&sign=9c434866c63b88757333528c62718ccf&c_uniq_tag=hqIsBGxGDaSCfrezxImn4TVrgPBKG8TX02q-DGyHZPs&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 392,
+                                            "url": "https://sun1-83.userapi.com/impg/JGJKtEoXusdAnpaP3MA-mVIbRXXoosCWVaAVww/RyO4IHtIC_c.jpg?size=392x604&quality=95&sign=a24dba63e604aabec8ebfd74b2623558&c_uniq_tag=QqNfqTXEgCCUVaFfnJAurf5aBRCd-PQqMBpInOTt2JA&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 524,
+                                            "url": "https://sun1-83.userapi.com/impg/JGJKtEoXusdAnpaP3MA-mVIbRXXoosCWVaAVww/RyO4IHtIC_c.jpg?size=524x807&quality=95&sign=e7358310090d12a1029865f0ffab0e1c&c_uniq_tag=-lko889Zbd2Y25MsqY0JZ1CXIL2aX8EKcokepG0Wtck&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 702,
+                                            "url": "https://sun1-83.userapi.com/impg/JGJKtEoXusdAnpaP3MA-mVIbRXXoosCWVaAVww/RyO4IHtIC_c.jpg?size=702x1080&quality=95&sign=cfec7455fca8eabbf6b56e155cc8d07a&c_uniq_tag=LGTSBoyIDW7VxWDxSzBBfbC-nyGrvKxwdZ9jYd0vOaM&type=album"
+                                        },
+                                        {
+                                            "height": 2160,
+                                            "type": "w",
+                                            "width": 1403,
+                                            "url": "https://sun1-83.userapi.com/impg/JGJKtEoXusdAnpaP3MA-mVIbRXXoosCWVaAVww/RyO4IHtIC_c.jpg?size=1403x2160&quality=95&sign=ebfe90c854540e9fe8b5f082fe359801&c_uniq_tag=xJmvtcFYfp-n6KyafCXPV8u42bbMmviO5Q-A1YlbH3Y&type=album"
+                                        },
+                                        {
+                                            "height": 200,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-83.userapi.com/impg/JGJKtEoXusdAnpaP3MA-mVIbRXXoosCWVaAVww/RyO4IHtIC_c.jpg?size=130x200&quality=95&sign=cde7a72126e399b011336fb93323285b&c_uniq_tag=uRSCVlqi4pSVWsIlh1AzjSxGZOh8P6W5ypzABtQCGg4&type=album"
+                                        },
+                                        {
+                                            "height": 308,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-83.userapi.com/impg/JGJKtEoXusdAnpaP3MA-mVIbRXXoosCWVaAVww/RyO4IHtIC_c.jpg?size=200x308&quality=95&sign=3ee4eac92577f2170e5b1000da47ea3d&c_uniq_tag=hCD9OTy26Aj2fDzp-0ELmLfdwaiHQmKHfm-nCRwMiwA&type=album"
+                                        },
+                                        {
+                                            "height": 493,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-83.userapi.com/impg/JGJKtEoXusdAnpaP3MA-mVIbRXXoosCWVaAVww/RyO4IHtIC_c.jpg?size=320x493&quality=95&sign=3e0658e0accdb2e61c7d925244204647&c_uniq_tag=1TQdiGGR3xlaMSBRu-G__0j-0zWXDY_asSD2noDdcnU&type=album"
+                                        },
+                                        {
+                                            "height": 785,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-83.userapi.com/impg/JGJKtEoXusdAnpaP3MA-mVIbRXXoosCWVaAVww/RyO4IHtIC_c.jpg?size=510x785&quality=95&sign=f791f6bfc8f6215385839da4b9e9492c&c_uniq_tag=wp62b7mL8GZq7V4yQasaDI1tYX3kq-Vh8zReQfDbWhw&type=album"
+                                        }
+                                    ],
+                                    "text": "Хлопковый комплект для активных девчонок 💣\nМайка-топ и спортивные брючки с прорезями\nОригинальная модель 👍👍👍\n▪️цена штучно 1300₽\n▪️цена упаковкой 1200₽(7 шт*1200₽)\nРазмеры 100,110,120,130,140,150,160( в размер)\n——————\nСумочка 👜 800₽",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682667366,
+                                    "id": 457332527,
+                                    "owner_id": 445215003,
+                                    "access_key": "490c10b2769e6e7322",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 75,
+                                            "url": "https://sun1-89.userapi.com/impg/mdMEuajwcrGYj9HUALtsIAy1lay2PujJrOyLtg/K3oWMKuUAuc.jpg?size=75x75&quality=95&sign=2f9fa37e1e9add63436c57b083f1fb41&c_uniq_tag=gsbxrvuvdMhkTTxtJRpFd_pmdU2d3-1Ta2yajk-QjVw&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 130,
+                                            "url": "https://sun1-89.userapi.com/impg/mdMEuajwcrGYj9HUALtsIAy1lay2PujJrOyLtg/K3oWMKuUAuc.jpg?size=130x130&quality=95&sign=0b05acffef3a8469734fb4278ad68327&c_uniq_tag=f7InRab9XoukYTgzO4mzQnMmH_1FnBgNyUHtjK5W4k0&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 604,
+                                            "url": "https://sun1-89.userapi.com/impg/mdMEuajwcrGYj9HUALtsIAy1lay2PujJrOyLtg/K3oWMKuUAuc.jpg?size=604x604&quality=95&sign=a4f5c3df39627034c5145f5dac7178e8&c_uniq_tag=Oj4Jk0lXWu-xaepReI7dmix-Q9qAdZ7GqTLoX6Gb3uY&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 807,
+                                            "url": "https://sun1-89.userapi.com/impg/mdMEuajwcrGYj9HUALtsIAy1lay2PujJrOyLtg/K3oWMKuUAuc.jpg?size=807x807&quality=95&sign=515e40f011ed101eb9a3d39be43b66a7&c_uniq_tag=q5HRLZ6VT3gUIeydxaY5ds3BGFdHLwKD_aJ3mu42tAk&type=album"
+                                        },
+                                        {
+                                            "height": 1280,
+                                            "type": "z",
+                                            "width": 1280,
+                                            "url": "https://sun1-89.userapi.com/impg/mdMEuajwcrGYj9HUALtsIAy1lay2PujJrOyLtg/K3oWMKuUAuc.jpg?size=1280x1280&quality=95&sign=0083e072d710f12e284a1d6b91c090a5&c_uniq_tag=1oO3pCpkCEKRE1BVf_gvbkYcVUJvbA1WAsrGm2XtKa0&type=album"
+                                        },
+                                        {
+                                            "height": 2560,
+                                            "type": "w",
+                                            "width": 2560,
+                                            "url": "https://sun1-89.userapi.com/impg/mdMEuajwcrGYj9HUALtsIAy1lay2PujJrOyLtg/K3oWMKuUAuc.jpg?size=2560x2560&quality=95&sign=bbf2d751cc9aebc614adf5d5401af1bf&c_uniq_tag=wiFL88CJJ-RUKbKRkFlQu32-3FmjmJgFSSbD784tB9Q&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-89.userapi.com/impg/mdMEuajwcrGYj9HUALtsIAy1lay2PujJrOyLtg/K3oWMKuUAuc.jpg?size=130x130&quality=95&sign=0b05acffef3a8469734fb4278ad68327&c_uniq_tag=f7InRab9XoukYTgzO4mzQnMmH_1FnBgNyUHtjK5W4k0&type=album"
+                                        },
+                                        {
+                                            "height": 200,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-89.userapi.com/impg/mdMEuajwcrGYj9HUALtsIAy1lay2PujJrOyLtg/K3oWMKuUAuc.jpg?size=200x200&quality=95&sign=27e61e247354e6d3ecfeaf6a38bdd8b3&c_uniq_tag=iB2xNdUlX9o-sc9aeMOW98HThHZ4ZliFnxGgp020XnE&type=album"
+                                        },
+                                        {
+                                            "height": 320,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-89.userapi.com/impg/mdMEuajwcrGYj9HUALtsIAy1lay2PujJrOyLtg/K3oWMKuUAuc.jpg?size=320x320&quality=95&sign=d5f1f095765264499a49782d6271fd75&c_uniq_tag=PcZ1poyrgA3RweT3XeFmo82Dl76PcNhyzU8aOWFJtG0&type=album"
+                                        },
+                                        {
+                                            "height": 510,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-89.userapi.com/impg/mdMEuajwcrGYj9HUALtsIAy1lay2PujJrOyLtg/K3oWMKuUAuc.jpg?size=510x510&quality=95&sign=d89b59e854872df1c0a379d97cc2b7ab&c_uniq_tag=RefcF-pow8K_jBGkKZC5bHVzWMlCbcgANlHFRtBWV5w&type=album"
+                                        }
+                                    ],
+                                    "text": "Хлопковый комплект для активных девчонок 💣\nМайка-топ и спортивные брючки с прорезями\nОригинальная модель 👍👍👍\n▪️цена штучно 1300₽\n▪️цена упаковкой 1200₽(7 шт*1200₽)\nРазмеры 100,110,120,130,140,150,160( в размер)\n——————\nСумочка 👜 800₽",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682667366,
+                                    "id": 457332526,
+                                    "owner_id": 445215003,
+                                    "access_key": "e56f90f14837043767",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 56,
+                                            "url": "https://sun1-17.userapi.com/impg/BrKQep-0T5l726rDw9K92e09d8dWvYH2eZWjCw/Cjf8XRmwSZ8.jpg?size=56x75&quality=95&sign=f2d13c6b03cc1b9b5623b614761ec48a&c_uniq_tag=GPkGRzoEA63TWtK2FwrEdGcKGBEkym-NMq-31FQXpO4&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 97,
+                                            "url": "https://sun1-17.userapi.com/impg/BrKQep-0T5l726rDw9K92e09d8dWvYH2eZWjCw/Cjf8XRmwSZ8.jpg?size=97x130&quality=95&sign=a1323767dfffe27cb8b4af0e9a81d31f&c_uniq_tag=3sU-K_tD4RJWPGU1mIuu-Y9c9h216ZS1EXnTLzpWcl4&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 453,
+                                            "url": "https://sun1-17.userapi.com/impg/BrKQep-0T5l726rDw9K92e09d8dWvYH2eZWjCw/Cjf8XRmwSZ8.jpg?size=453x604&quality=95&sign=da77f7466e75d30b4539ccfe1a5ffd25&c_uniq_tag=1mAVPXzWv0uhbI4JEbbe06R2W-rYUZ7LkqrKVP49acY&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 605,
+                                            "url": "https://sun1-17.userapi.com/impg/BrKQep-0T5l726rDw9K92e09d8dWvYH2eZWjCw/Cjf8XRmwSZ8.jpg?size=605x807&quality=95&sign=a4e2efd8dd4bb55581e7e3395b174fc6&c_uniq_tag=j6m08mzhKPAfD3IU7Yn_i6cbnTXz8ld412aqdvQFxQU&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 810,
+                                            "url": "https://sun1-17.userapi.com/impg/BrKQep-0T5l726rDw9K92e09d8dWvYH2eZWjCw/Cjf8XRmwSZ8.jpg?size=810x1080&quality=95&sign=f1d5a245b4ae7d2f98abf1353efbbea1&c_uniq_tag=kzK5zVnUdb7rOtz9I7VaCKRWJPNnV-AiOMv22ITpPxo&type=album"
+                                        },
+                                        {
+                                            "height": 2160,
+                                            "type": "w",
+                                            "width": 1620,
+                                            "url": "https://sun1-17.userapi.com/impg/BrKQep-0T5l726rDw9K92e09d8dWvYH2eZWjCw/Cjf8XRmwSZ8.jpg?size=1620x2160&quality=95&sign=f1406e3b0a5243f650d3dd2f31ed96d0&c_uniq_tag=kXyLZUHv6M8lJF9y0xtdRdqVSBE66UBemt652AvEt70&type=album"
+                                        },
+                                        {
+                                            "height": 173,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-17.userapi.com/impg/BrKQep-0T5l726rDw9K92e09d8dWvYH2eZWjCw/Cjf8XRmwSZ8.jpg?size=130x173&quality=95&sign=f8514be6ac80ba8fd1095a4f4d128424&c_uniq_tag=yDEOIpvQq7VjPhYZHwKhAiKeBI-ZkYdBm75SxUoihY8&type=album"
+                                        },
+                                        {
+                                            "height": 267,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-17.userapi.com/impg/BrKQep-0T5l726rDw9K92e09d8dWvYH2eZWjCw/Cjf8XRmwSZ8.jpg?size=200x267&quality=95&sign=72e5246273aa9a0a8479142afcb03f65&c_uniq_tag=AEuJ-ByggQyjygD_zYfdzvMwLXMNxgbF1X_lRwlPGMo&type=album"
+                                        },
+                                        {
+                                            "height": 427,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-17.userapi.com/impg/BrKQep-0T5l726rDw9K92e09d8dWvYH2eZWjCw/Cjf8XRmwSZ8.jpg?size=320x427&quality=95&sign=be9155ebe1ddd981d26338fd64ad34b0&c_uniq_tag=lJ62c7vHaUd4L8g8xmEFF2hmgKhxMTEwRYwBVVTnJUk&type=album"
+                                        },
+                                        {
+                                            "height": 680,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-17.userapi.com/impg/BrKQep-0T5l726rDw9K92e09d8dWvYH2eZWjCw/Cjf8XRmwSZ8.jpg?size=510x680&quality=95&sign=e374e36961ea8d61e424f8d973c79b1f&c_uniq_tag=1_pFJU-b5Ntw4IPU5PqCrv1D0A0EeF9OJeMgpAfWBwU&type=album"
+                                        }
+                                    ],
+                                    "text": "Хлопковый комплект для активных девчонок 💣\nМайка-топ и спортивные брючки с прорезями\nОригинальная модель 👍👍👍\n▪️цена штучно 1300₽\n▪️цена упаковкой 1200₽(7 шт*1200₽)\nРазмеры 100,110,120,130,140,150,160( в размер)\n——————\nСумочка 👜 800₽",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682667366,
+                                    "id": 457332528,
+                                    "owner_id": 445215003,
+                                    "access_key": "f80347112c1f0f2a6e",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 56,
+                                            "url": "https://sun1-27.userapi.com/impg/5qa2uunjHpD3NZtKGpOTyVuDbmgnrWf8pHKj2A/eVXGaxEq3_U.jpg?size=56x75&quality=95&sign=ac5dd3a52811c4f9a2a0f1cb4c5fac26&c_uniq_tag=seT25m3vvQaDFfTqAttypD0sXxrlYO5UIIJTkXGJtHM&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 97,
+                                            "url": "https://sun1-27.userapi.com/impg/5qa2uunjHpD3NZtKGpOTyVuDbmgnrWf8pHKj2A/eVXGaxEq3_U.jpg?size=97x130&quality=95&sign=63e65dbe61abb7dde4f57b91e7d43386&c_uniq_tag=8B9xwoFBJrI0yailzn0eRlyygoP-v6pbjdDMEW8HKgg&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 453,
+                                            "url": "https://sun1-27.userapi.com/impg/5qa2uunjHpD3NZtKGpOTyVuDbmgnrWf8pHKj2A/eVXGaxEq3_U.jpg?size=453x604&quality=95&sign=46e7112a2c39a81797b6b494d0ee07c6&c_uniq_tag=0gtsvR3qEY28QcVN3ZnYz2jzSkADn3jepa99tE2OprY&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 605,
+                                            "url": "https://sun1-27.userapi.com/impg/5qa2uunjHpD3NZtKGpOTyVuDbmgnrWf8pHKj2A/eVXGaxEq3_U.jpg?size=605x807&quality=95&sign=e253945c6136335bbba98d4bca5aa4ce&c_uniq_tag=gLIt2R4NnNx4WoA0sUj0r8rY1FC_rzm4csD0yuOsnV8&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 810,
+                                            "url": "https://sun1-27.userapi.com/impg/5qa2uunjHpD3NZtKGpOTyVuDbmgnrWf8pHKj2A/eVXGaxEq3_U.jpg?size=810x1080&quality=95&sign=6d85fbabe5e6e426ec5de5537932095e&c_uniq_tag=xxYHyVv4MBHCO3cORQ0nj9eenxqXlVWAGo8H-PM-snY&type=album"
+                                        },
+                                        {
+                                            "height": 2160,
+                                            "type": "w",
+                                            "width": 1620,
+                                            "url": "https://sun1-27.userapi.com/impg/5qa2uunjHpD3NZtKGpOTyVuDbmgnrWf8pHKj2A/eVXGaxEq3_U.jpg?size=1620x2160&quality=95&sign=b9b67162f46a90c2ec32913ec85a80bc&c_uniq_tag=ArP-DOoRIplFXGRyAHS6mSVmpvpstpotf16oh5WmGOU&type=album"
+                                        },
+                                        {
+                                            "height": 173,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-27.userapi.com/impg/5qa2uunjHpD3NZtKGpOTyVuDbmgnrWf8pHKj2A/eVXGaxEq3_U.jpg?size=130x173&quality=95&sign=5915bbfe5b5c51227fa3852dae56e7d2&c_uniq_tag=U_i8A272Pwduatl_TQX0ycbYQc70CBHDf99xeh70Fak&type=album"
+                                        },
+                                        {
+                                            "height": 267,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-27.userapi.com/impg/5qa2uunjHpD3NZtKGpOTyVuDbmgnrWf8pHKj2A/eVXGaxEq3_U.jpg?size=200x267&quality=95&sign=21f7f331628e5e68e6177fba1a693c5a&c_uniq_tag=wo8lZC8d3iRI86T3ApU8fxnJ-3qKK1PqNqp3NlR9A0E&type=album"
+                                        },
+                                        {
+                                            "height": 427,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-27.userapi.com/impg/5qa2uunjHpD3NZtKGpOTyVuDbmgnrWf8pHKj2A/eVXGaxEq3_U.jpg?size=320x427&quality=95&sign=45e35f47c1b0eb87bd904a0b1eadc78c&c_uniq_tag=8pfZHaO2936IG2UHq7FyFRt4Oez0XZvxiIfTzqcsK8I&type=album"
+                                        },
+                                        {
+                                            "height": 680,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-27.userapi.com/impg/5qa2uunjHpD3NZtKGpOTyVuDbmgnrWf8pHKj2A/eVXGaxEq3_U.jpg?size=510x680&quality=95&sign=82855a97510515adce2f981dd815ccd8&c_uniq_tag=QRXq9ZjnDbFncitdm9V4tjwhEeQEm3sJK5bEY_rvh90&type=album"
+                                        }
+                                    ],
+                                    "text": "Хлопковый комплект для активных девчонок 💣\nМайка-топ и спортивные брючки с прорезями\nОригинальная модель 👍👍👍\n▪️цена штучно 1300₽\n▪️цена упаковкой 1200₽(7 шт*1200₽)\nРазмеры 100,110,120,130,140,150,160( в размер)\n——————\nСумочка 👜 800₽",
+                                    "has_tags": false
+                                }
+                            }
+                        ],
+                        "date": 1682668200,
+                        "from_id": 445215003,
+                        "id": 21170,
+                        "owner_id": 445215003,
+                        "post_source": {
+                            "platform": "iphone",
+                            "type": "api"
+                        },
+                        "post_type": "post",
+                        "text": "Хлопковый комплект для активных девчонок 💣\nМайка-топ и спортивные брючки с прорезями\nОригинальная модель 👍👍👍\n▪️цена штучно 1300₽\n▪️цена упаковкой 1200₽(7 шт*1200₽)\nРазмеры 100,110,120,130,140,150,160( в размер)\n——————\nСумочка 👜 800₽"
+                    }
+                ],
+                "donut": {
+                    "is_donut": false
+                },
+                "comments": {
+                    "can_post": 0,
+                    "count": 0
+                },
+                "marked_as_ads": 0,
+                "short_text_rate": 0.8,
+                "hash": "aESJbKMYHUjnCUeTTMSYJW9X8W-M",
+                "type": "post",
+                "attachments": [],
+                "date": 1682671253,
+                "from_id": -167527030,
+                "id": 12064,
+                "is_favorite": false,
+                "likes": {
+                    "can_like": 1,
+                    "count": 19,
+                    "user_likes": 0,
+                    "can_publish": 1,
+                    "repost_disabled": false
+                },
+                "owner_id": -167527030,
+                "post_source": {
+                    "platform": "iphone",
+                    "type": "api"
+                },
+                "post_type": "post",
+                "reposts": {
+                    "count": 15,
+                    "user_reposted": 0
+                },
+                "text": "",
+                "views": {
+                    "count": 3252
+                }
+            },
+            {
+                "copy_history": [
+                    {
+                        "type": "post",
+                        "attachments": [
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682657276,
+                                    "id": 457332497,
+                                    "owner_id": 445215003,
+                                    "access_key": "6a58cd2bc61e1bbc5c",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 58,
+                                            "url": "https://sun1-97.userapi.com/impg/BtPMR_y2Q6FNP_ZIfebL6we_CjE8LmSzow1dnQ/4sed_2DegO0.jpg?size=58x75&quality=95&sign=4e9c72af6eae7b041694db9d8bf6422d&c_uniq_tag=zK3byN487w-aiRQ0MfWkABuSIUWmZGkbtmpFfQsuDt8&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 100,
+                                            "url": "https://sun1-97.userapi.com/impg/BtPMR_y2Q6FNP_ZIfebL6we_CjE8LmSzow1dnQ/4sed_2DegO0.jpg?size=100x130&quality=95&sign=8bac00fa6b465fe3ea98a1f195e3d0e7&c_uniq_tag=pMrXq_hG5Co9oNCYfzPYng_moGapYNeSL6h0zHO0DQQ&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 465,
+                                            "url": "https://sun1-97.userapi.com/impg/BtPMR_y2Q6FNP_ZIfebL6we_CjE8LmSzow1dnQ/4sed_2DegO0.jpg?size=465x604&quality=95&sign=2f8cc515fa918ed2492bedc08fbb778e&c_uniq_tag=zHeSIpj-YDsfGZPPvjKq9OF3e90Rx0zs90zTU3pSuWk&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 621,
+                                            "url": "https://sun1-97.userapi.com/impg/BtPMR_y2Q6FNP_ZIfebL6we_CjE8LmSzow1dnQ/4sed_2DegO0.jpg?size=621x807&quality=95&sign=1bb3456bfa710a45fd1aeaeeae158b54&c_uniq_tag=AkUe71xyz-31b9xKJ6W6vWQdtK5_eByOQ8edNq2P5YA&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 831,
+                                            "url": "https://sun1-97.userapi.com/impg/BtPMR_y2Q6FNP_ZIfebL6we_CjE8LmSzow1dnQ/4sed_2DegO0.jpg?size=831x1080&quality=95&sign=d55ef4682b1bb28931c2fd3d994f8181&c_uniq_tag=nzN2TbwLv2bL4raft6vDRuxbrQVdCOnBaXOubfpqyhE&type=album"
+                                        },
+                                        {
+                                            "height": 2043,
+                                            "type": "w",
+                                            "width": 1572,
+                                            "url": "https://sun1-97.userapi.com/impg/BtPMR_y2Q6FNP_ZIfebL6we_CjE8LmSzow1dnQ/4sed_2DegO0.jpg?size=1572x2043&quality=95&sign=b0cb5ba8d0f403e625691bc343ce0ef2&c_uniq_tag=yp3eCML_DSg3R2jdonZ8xen3AunK69lbSG5HtqI4fh8&type=album"
+                                        },
+                                        {
+                                            "height": 169,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-97.userapi.com/impg/BtPMR_y2Q6FNP_ZIfebL6we_CjE8LmSzow1dnQ/4sed_2DegO0.jpg?size=130x169&quality=95&sign=ed7e9ee64eea88b2deb7fe018e505a2d&c_uniq_tag=cGqXS4Hqepe-7giMemr_nsVYsRipiSCPDd-4QHSH97s&type=album"
+                                        },
+                                        {
+                                            "height": 260,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-97.userapi.com/impg/BtPMR_y2Q6FNP_ZIfebL6we_CjE8LmSzow1dnQ/4sed_2DegO0.jpg?size=200x260&quality=95&sign=24fe723ab7e01ad27e0706a0e66bc4cf&c_uniq_tag=GyaFbFsOxt33ixTnprXlEMPloFc7wcBmrjeahUNYhDE&type=album"
+                                        },
+                                        {
+                                            "height": 416,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-97.userapi.com/impg/BtPMR_y2Q6FNP_ZIfebL6we_CjE8LmSzow1dnQ/4sed_2DegO0.jpg?size=320x416&quality=95&sign=9ea23401c0d00536298cc54fff1e3ca1&c_uniq_tag=7i69H4KtvgE1I0qUOL9aMN9BPOw1zQAryUDYl47nANo&type=album"
+                                        },
+                                        {
+                                            "height": 663,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-97.userapi.com/impg/BtPMR_y2Q6FNP_ZIfebL6we_CjE8LmSzow1dnQ/4sed_2DegO0.jpg?size=510x663&quality=95&sign=c5c353491dd3461e06e1fa06d481250f&c_uniq_tag=nkeRxP8nrojIVauemA35ADfBIccENMPmJGVG5NrbLro&type=album"
+                                        }
+                                    ],
+                                    "text": "☀️Стильный комплект ☀️\n💥 качество 🙌 супер\nФутболка хлопок,брючки палаццо вискоза \n✅цена штучно 1000₽\n✅цена упаковкой 900₽(7 шт*900₽)\nРазмеры 100,110,120,130,140,150,160(в размер)\n————————\n👜Сумочка 800₽",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682657276,
+                                    "id": 457332496,
+                                    "owner_id": 445215003,
+                                    "access_key": "33703152c8c80b11a5",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 48,
+                                            "url": "https://sun1-95.userapi.com/impg/zwGWRSvvxmTaaLadxNGZc4xl0HiPq-PWmBW5NA/ZgFNsx9v0s8.jpg?size=48x75&quality=95&sign=c28e21754859fdd2361428e5cf69dbf8&c_uniq_tag=uQ7c0vm8RGvlRNWUZd_OPm8S8nCwOQOUqBUYfiT-DsE&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 83,
+                                            "url": "https://sun1-95.userapi.com/impg/zwGWRSvvxmTaaLadxNGZc4xl0HiPq-PWmBW5NA/ZgFNsx9v0s8.jpg?size=83x130&quality=95&sign=38e53febcdc95f78232ca2bf77f47705&c_uniq_tag=d8UREiIFPHtZvcip4tARe6yUrCGkKEWg1iKqpbCe_mY&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 386,
+                                            "url": "https://sun1-95.userapi.com/impg/zwGWRSvvxmTaaLadxNGZc4xl0HiPq-PWmBW5NA/ZgFNsx9v0s8.jpg?size=386x604&quality=95&sign=619bc5dba659a5d622baa6c0d239a54a&c_uniq_tag=OKctbrGHq2ZaBIKetSuVFkT4CyuroAVlty5fW99ITGI&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 516,
+                                            "url": "https://sun1-95.userapi.com/impg/zwGWRSvvxmTaaLadxNGZc4xl0HiPq-PWmBW5NA/ZgFNsx9v0s8.jpg?size=516x807&quality=95&sign=d7e5bfffc6d2cb7645c75daec3491364&c_uniq_tag=W7WQ-F26uLxNu-raMqQKUk4N_NiRKz9sOCijlZTjQzA&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 690,
+                                            "url": "https://sun1-95.userapi.com/impg/zwGWRSvvxmTaaLadxNGZc4xl0HiPq-PWmBW5NA/ZgFNsx9v0s8.jpg?size=690x1080&quality=95&sign=0f7ca5edbb83a0c0e8404bc6778087f4&c_uniq_tag=4XUbXv5_uhuHx7wqHDG4ZGMeOq3qWPHBPsWH_mfsuzs&type=album"
+                                        },
+                                        {
+                                            "height": 1780,
+                                            "type": "w",
+                                            "width": 1138,
+                                            "url": "https://sun1-95.userapi.com/impg/zwGWRSvvxmTaaLadxNGZc4xl0HiPq-PWmBW5NA/ZgFNsx9v0s8.jpg?size=1138x1780&quality=95&sign=0218b2f472a4ab07478038f43c1c7295&c_uniq_tag=oOcU9FetclPDfNHNrBU3Sv1NyFvCnv9uVJUbpqe89Pw&type=album"
+                                        },
+                                        {
+                                            "height": 203,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-95.userapi.com/impg/zwGWRSvvxmTaaLadxNGZc4xl0HiPq-PWmBW5NA/ZgFNsx9v0s8.jpg?size=130x203&quality=95&sign=699e75cb130e99b03c10bfe884439b23&c_uniq_tag=VISMjc_O2uMCUjSRM7rIuEjnBwXxMnCcY7y2EJrRULY&type=album"
+                                        },
+                                        {
+                                            "height": 313,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-95.userapi.com/impg/zwGWRSvvxmTaaLadxNGZc4xl0HiPq-PWmBW5NA/ZgFNsx9v0s8.jpg?size=200x313&quality=95&sign=f7e138ecfc402cd30a627bee9463091f&c_uniq_tag=zpuodTWbI-cBD_qr4rVH0Z4tyEYLZvght6pkm-jsCJY&type=album"
+                                        },
+                                        {
+                                            "height": 501,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-95.userapi.com/impg/zwGWRSvvxmTaaLadxNGZc4xl0HiPq-PWmBW5NA/ZgFNsx9v0s8.jpg?size=320x501&quality=95&sign=5e3f925ce1667af7b714254abd8b65da&c_uniq_tag=4XwKxvPxEiUQ86i2oC_gcL-0zmFFVNHwPDgTdVp02uE&type=album"
+                                        },
+                                        {
+                                            "height": 798,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-95.userapi.com/impg/zwGWRSvvxmTaaLadxNGZc4xl0HiPq-PWmBW5NA/ZgFNsx9v0s8.jpg?size=510x798&quality=95&sign=6fc0893939e9ed93ec96aa3b4fe9d1ef&c_uniq_tag=oVKyLNANM28YjfjqSfJFS_7dxrQO16XBGYkhOEcy8PU&type=album"
+                                        }
+                                    ],
+                                    "text": "☀️Стильный комплект ☀️\n💥 качество 🙌 супер\nФутболка хлопок,брючки палаццо вискоза \n✅цена штучно 1000₽\n✅цена упаковкой 900₽(7 шт*900₽)\nРазмеры 100,110,120,130,140,150,160(в размер)\n————————\n👜Сумочка 800₽",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682657276,
+                                    "id": 457332498,
+                                    "owner_id": 445215003,
+                                    "access_key": "3a692b37a09ed3b03e",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 56,
+                                            "url": "https://sun1-16.userapi.com/impg/Wih38PHTBlFLWzoCcVFiV2eFpobyrGqxdHeI4g/UDxOT7-jTTI.jpg?size=56x75&quality=95&sign=755405648a1c9b5f281e1c79e22e87ed&c_uniq_tag=aCYOdrxN3cjtmSEiO7-zMCAV7x53Ok4SgYrx4RzovLA&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 98,
+                                            "url": "https://sun1-16.userapi.com/impg/Wih38PHTBlFLWzoCcVFiV2eFpobyrGqxdHeI4g/UDxOT7-jTTI.jpg?size=98x130&quality=95&sign=33fa77ddba2490a19c59b9cbc7e733cf&c_uniq_tag=nTYoZmrvSjL3fn5YK20bADpMBByimaZsZPE5Z5_8pL8&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 453,
+                                            "url": "https://sun1-16.userapi.com/impg/Wih38PHTBlFLWzoCcVFiV2eFpobyrGqxdHeI4g/UDxOT7-jTTI.jpg?size=453x604&quality=95&sign=42b7372e47673eed0b3b85778163d33d&c_uniq_tag=Ym1NK2s03yEHSeH1Eza1b6854zdC4QBs7o2zafr7izU&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 605,
+                                            "url": "https://sun1-16.userapi.com/impg/Wih38PHTBlFLWzoCcVFiV2eFpobyrGqxdHeI4g/UDxOT7-jTTI.jpg?size=605x807&quality=95&sign=7e44896a256b6592d386fc0efc4855a7&c_uniq_tag=iDjveRIdGKbECv4cijKTpipVg6hlt9KrhKOw9LCAUL8&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 810,
+                                            "url": "https://sun1-16.userapi.com/impg/Wih38PHTBlFLWzoCcVFiV2eFpobyrGqxdHeI4g/UDxOT7-jTTI.jpg?size=810x1080&quality=95&sign=3870d64d337f5764915279a502c4d53b&c_uniq_tag=kl_ZjTyuJTEM6g4w7rkZiGx3nBV-eZzZSlJEGlE27PY&type=album"
+                                        },
+                                        {
+                                            "height": 1725,
+                                            "type": "w",
+                                            "width": 1294,
+                                            "url": "https://sun1-16.userapi.com/impg/Wih38PHTBlFLWzoCcVFiV2eFpobyrGqxdHeI4g/UDxOT7-jTTI.jpg?size=1294x1725&quality=95&sign=91bf0392b002d5ed89cf96c48e8cc0f6&c_uniq_tag=VTUNZTBBPFhxAeZXtYgahWwJzK3a97XOXZRgKAaUdiM&type=album"
+                                        },
+                                        {
+                                            "height": 173,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-16.userapi.com/impg/Wih38PHTBlFLWzoCcVFiV2eFpobyrGqxdHeI4g/UDxOT7-jTTI.jpg?size=130x173&quality=95&sign=96ea09676f1a903c4342a3ab1788d558&c_uniq_tag=IBNXZkHKkEmw60hGZPM5pdxsnXh5SanFqeuylUd0wLA&type=album"
+                                        },
+                                        {
+                                            "height": 267,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-16.userapi.com/impg/Wih38PHTBlFLWzoCcVFiV2eFpobyrGqxdHeI4g/UDxOT7-jTTI.jpg?size=200x267&quality=95&sign=462e6d3855da02d899e936cfe12bed02&c_uniq_tag=8acgAxbgzpf4y82Hd3mDH-8kLRIL0Mar_ul94Xxkalk&type=album"
+                                        },
+                                        {
+                                            "height": 427,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-16.userapi.com/impg/Wih38PHTBlFLWzoCcVFiV2eFpobyrGqxdHeI4g/UDxOT7-jTTI.jpg?size=320x427&quality=95&sign=80aac7a130521fee2803cdaa1ed4b341&c_uniq_tag=7CasTEhM9pEqpUHY2mwNWgMrh3yIRsWWRzK8v7B-4v8&type=album"
+                                        },
+                                        {
+                                            "height": 680,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-16.userapi.com/impg/Wih38PHTBlFLWzoCcVFiV2eFpobyrGqxdHeI4g/UDxOT7-jTTI.jpg?size=510x680&quality=95&sign=3437778bce79597a9290276600931ab6&c_uniq_tag=y445TIREnUOZXkRb47rsTu78xlknRrRT3uT9MvU37wg&type=album"
+                                        }
+                                    ],
+                                    "text": "☀️Стильный комплект ☀️\n💥 качество 🙌 супер\nФутболка хлопок,брючки палаццо вискоза \n✅цена штучно 1000₽\n✅цена упаковкой 900₽(7 шт*900₽)\nРазмеры 100,110,120,130,140,150,160(в размер)\n————————\n👜Сумочка 800₽",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682657278,
+                                    "id": 457332500,
+                                    "owner_id": 445215003,
+                                    "access_key": "6e8db5a0cc54736c5e",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 56,
+                                            "url": "https://sun1-84.userapi.com/impg/AgN028y5z3rWAiOsE0yUp4eYnWgaANYiY1cbig/0bzZZpeCo6c.jpg?size=56x75&quality=95&sign=05bdb5f805bc4813500aca192a6ef364&c_uniq_tag=bBEMmcxvdLDVeenNSvl1S9CmB_2FY4aagQKcu6XmR58&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 97,
+                                            "url": "https://sun1-84.userapi.com/impg/AgN028y5z3rWAiOsE0yUp4eYnWgaANYiY1cbig/0bzZZpeCo6c.jpg?size=97x130&quality=95&sign=7b2f85d8ce3acc406cc40a2a1fc7af30&c_uniq_tag=BMnX6Ts4a-tzf-u2sUCZlIpseqOKWUwWe2H_VzlNArc&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 453,
+                                            "url": "https://sun1-84.userapi.com/impg/AgN028y5z3rWAiOsE0yUp4eYnWgaANYiY1cbig/0bzZZpeCo6c.jpg?size=453x604&quality=95&sign=fff93a15ca9d296d8f435f6cc6d0b9fa&c_uniq_tag=4WUJyZneom1mGoLF6h3spB7ruHYcfWeFF5ZggwtLBgM&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 605,
+                                            "url": "https://sun1-84.userapi.com/impg/AgN028y5z3rWAiOsE0yUp4eYnWgaANYiY1cbig/0bzZZpeCo6c.jpg?size=605x807&quality=95&sign=c87899a644f6e9a18d7be0ee22346098&c_uniq_tag=8yGTvkm3ES4kCTUHxGmir_bMvF6KFoWR96ToCj8Z4i0&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 810,
+                                            "url": "https://sun1-84.userapi.com/impg/AgN028y5z3rWAiOsE0yUp4eYnWgaANYiY1cbig/0bzZZpeCo6c.jpg?size=810x1080&quality=95&sign=8a1af24197e7d8cb903c0328d3383b01&c_uniq_tag=qe_JzU_NJF6eNLetelLNZWoJ_A7beG2tfJfEeP6Bupk&type=album"
+                                        },
+                                        {
+                                            "height": 2160,
+                                            "type": "w",
+                                            "width": 1620,
+                                            "url": "https://sun1-84.userapi.com/impg/AgN028y5z3rWAiOsE0yUp4eYnWgaANYiY1cbig/0bzZZpeCo6c.jpg?size=1620x2160&quality=95&sign=7746f9870a3f96ee45127b428eacf435&c_uniq_tag=A2iJH8oYSAuNfGvsONd0huIATqDGwXYJfwK_c1ZtArA&type=album"
+                                        },
+                                        {
+                                            "height": 173,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-84.userapi.com/impg/AgN028y5z3rWAiOsE0yUp4eYnWgaANYiY1cbig/0bzZZpeCo6c.jpg?size=130x173&quality=95&sign=0a7fb67f46f4ec68902347b38ec51b9c&c_uniq_tag=CEFLhFNdc9q0BNTdaOQqmeugWBVGwmDI5BXqGoR9mUo&type=album"
+                                        },
+                                        {
+                                            "height": 267,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-84.userapi.com/impg/AgN028y5z3rWAiOsE0yUp4eYnWgaANYiY1cbig/0bzZZpeCo6c.jpg?size=200x267&quality=95&sign=77012c3adabfad01f56196934951f87d&c_uniq_tag=bJXeJf0LhuqLPtTPcSW6dlD620FarsJ9zJbMuk6wGPQ&type=album"
+                                        },
+                                        {
+                                            "height": 427,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-84.userapi.com/impg/AgN028y5z3rWAiOsE0yUp4eYnWgaANYiY1cbig/0bzZZpeCo6c.jpg?size=320x427&quality=95&sign=f565f8fe91dbbca9182d6aec92f17b6b&c_uniq_tag=5f56vJrm5htvaqfZaUPsSYgHxJm27UH0AOnvmMCLzYw&type=album"
+                                        },
+                                        {
+                                            "height": 680,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-84.userapi.com/impg/AgN028y5z3rWAiOsE0yUp4eYnWgaANYiY1cbig/0bzZZpeCo6c.jpg?size=510x680&quality=95&sign=718dfbdbf4fa666d19e331c1d0913b8a&c_uniq_tag=iwnB7X5Sqc2drpWL9BJthCaQZ0fUk5BpfblOB_pOb2c&type=album"
+                                        }
+                                    ],
+                                    "text": "☀️Стильный комплект ☀️\n💥 качество 🙌 супер\nФутболка хлопок,брючки палаццо вискоза \n✅цена штучно 1000₽\n✅цена упаковкой 900₽(7 шт*900₽)\nРазмеры 100,110,120,130,140,150,160(в размер)\n————————\n👜Сумочка 800₽",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682657277,
+                                    "id": 457332499,
+                                    "owner_id": 445215003,
+                                    "access_key": "d4e0507cccc61b0688",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 56,
+                                            "url": "https://sun1-83.userapi.com/impg/zcQcWWyozQ4zu9RGffunVyCQQdoi67lKZX2QkA/xwOKnn_Dw7M.jpg?size=56x75&quality=95&sign=d26888420e8d00ab646298110aac123a&c_uniq_tag=OYrzfCFc2LmZBUgm8WBhDbzrR2HDe7qtoog_X_tHhkU&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 97,
+                                            "url": "https://sun1-83.userapi.com/impg/zcQcWWyozQ4zu9RGffunVyCQQdoi67lKZX2QkA/xwOKnn_Dw7M.jpg?size=97x130&quality=95&sign=dff37c3c92e4c35232d4c1d7f64b200d&c_uniq_tag=1dX1efHkFkEXOY_nZBhf78RJfNqNwxEQIJpSS_1lHFg&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 453,
+                                            "url": "https://sun1-83.userapi.com/impg/zcQcWWyozQ4zu9RGffunVyCQQdoi67lKZX2QkA/xwOKnn_Dw7M.jpg?size=453x604&quality=95&sign=2d52a002552cbd8d2f7ae065da65fdc1&c_uniq_tag=5A8IcgO6v3oW-oV_cb1SZ4Ob-oyJlQlRbsvhrLgdqdM&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 605,
+                                            "url": "https://sun1-83.userapi.com/impg/zcQcWWyozQ4zu9RGffunVyCQQdoi67lKZX2QkA/xwOKnn_Dw7M.jpg?size=605x807&quality=95&sign=e86fb19d54866a42c44a1fbbb5f541a0&c_uniq_tag=8kz0Y1OL1S7go5DUvxuj3r9KJA-KOI1q6IF2lyFbkNY&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 810,
+                                            "url": "https://sun1-83.userapi.com/impg/zcQcWWyozQ4zu9RGffunVyCQQdoi67lKZX2QkA/xwOKnn_Dw7M.jpg?size=810x1080&quality=95&sign=2931100bd279ec87213c6c53633bde52&c_uniq_tag=VUu6Gfq_J0IQHWXOZWhdNxzvle_luu1vpRemcDksXsk&type=album"
+                                        },
+                                        {
+                                            "height": 1771,
+                                            "type": "w",
+                                            "width": 1328,
+                                            "url": "https://sun1-83.userapi.com/impg/zcQcWWyozQ4zu9RGffunVyCQQdoi67lKZX2QkA/xwOKnn_Dw7M.jpg?size=1328x1771&quality=95&sign=7c8b8c93855d2166252885794275c18f&c_uniq_tag=UKKUWCpsE8yTUEvanktojhb3Hga8MU6-1_cqaxcd92A&type=album"
+                                        },
+                                        {
+                                            "height": 173,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-83.userapi.com/impg/zcQcWWyozQ4zu9RGffunVyCQQdoi67lKZX2QkA/xwOKnn_Dw7M.jpg?size=130x173&quality=95&sign=6dc1581473672c719b4fde76db5c8d3c&c_uniq_tag=Goa2GI1c1rH8668csoOA0sUPX_YGpFlf7cQT1j_852A&type=album"
+                                        },
+                                        {
+                                            "height": 267,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-83.userapi.com/impg/zcQcWWyozQ4zu9RGffunVyCQQdoi67lKZX2QkA/xwOKnn_Dw7M.jpg?size=200x267&quality=95&sign=a317dde3451d1b7ebeac0a99b4a575e0&c_uniq_tag=PiHZOI9NcU16U_38UKnmUACY-DlsTNJzGqyARuJw44I&type=album"
+                                        },
+                                        {
+                                            "height": 427,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-83.userapi.com/impg/zcQcWWyozQ4zu9RGffunVyCQQdoi67lKZX2QkA/xwOKnn_Dw7M.jpg?size=320x427&quality=95&sign=f761180992fd1e8f0f19cbd2a5560e46&c_uniq_tag=39G97maUrtwgVtXWF0TNeYa4s3MsxQRylniWLdtN0ZM&type=album"
+                                        },
+                                        {
+                                            "height": 680,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-83.userapi.com/impg/zcQcWWyozQ4zu9RGffunVyCQQdoi67lKZX2QkA/xwOKnn_Dw7M.jpg?size=510x680&quality=95&sign=4c54297180981b1b9724e6f899f47bd9&c_uniq_tag=U_er6xCywoHCW0jW56UiJ0eTd-VlAdu03qXmEOv9i3Y&type=album"
+                                        }
+                                    ],
+                                    "text": "☀️Стильный комплект ☀️\n💥 качество 🙌 супер\nФутболка хлопок,брючки палаццо вискоза \n✅цена штучно 1000₽\n✅цена упаковкой 900₽(7 шт*900₽)\nРазмеры 100,110,120,130,140,150,160(в размер)\n————————\n👜Сумочка 800₽",
+                                    "has_tags": false
+                                }
+                            }
+                        ],
+                        "date": 1682658900,
+                        "from_id": 445215003,
+                        "id": 21167,
+                        "owner_id": 445215003,
+                        "post_source": {
+                            "platform": "iphone",
+                            "type": "api"
+                        },
+                        "post_type": "post",
+                        "text": "☀️Стильный комплект ☀️\n💥 качество 🙌 супер\nФутболка хлопок,брючки палаццо вискоза \n✅цена штучно 1000₽\n✅цена упаковкой 900₽(7 шт*900₽)\nРазмеры 100,110,120,130,140,150,160(в размер)\n————————\n👜Сумочка 800₽"
+                    }
+                ],
+                "donut": {
+                    "is_donut": false
+                },
+                "comments": {
+                    "can_post": 0,
+                    "count": 0
+                },
+                "marked_as_ads": 0,
+                "short_text_rate": 0.8,
+                "hash": "bVGrEYMKqaFcSKKZIn-DGNsiArg8",
+                "type": "post",
+                "attachments": [],
+                "date": 1682659214,
+                "from_id": -167527030,
+                "id": 12063,
+                "is_favorite": false,
+                "likes": {
+                    "can_like": 1,
+                    "count": 10,
+                    "user_likes": 0,
+                    "can_publish": 1,
+                    "repost_disabled": false
+                },
+                "owner_id": -167527030,
+                "post_source": {
+                    "platform": "iphone",
+                    "type": "api"
+                },
+                "post_type": "post",
+                "reposts": {
+                    "count": 9,
+                    "user_reposted": 0
+                },
+                "text": "",
+                "views": {
+                    "count": 2530
+                }
+            },
+            {
+                "copy_history": [
+                    {
+                        "type": "post",
+                        "attachments": [
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682656576,
+                                    "id": 457332488,
+                                    "owner_id": 445215003,
+                                    "access_key": "62b0b289bd6c373cf5",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 55,
+                                            "url": "https://sun1-55.userapi.com/impg/nD4ubMPmBWCq7YPrUY57SZH8qevxIEhc56yccQ/aSP0p6X5uow.jpg?size=55x75&quality=95&sign=bd2de62284ee0b1f891145cf9bf75ea0&c_uniq_tag=5m9qiT85nTrxugDmKWNCcCEsgAqNb7V1p4CkwPAM0MM&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 95,
+                                            "url": "https://sun1-55.userapi.com/impg/nD4ubMPmBWCq7YPrUY57SZH8qevxIEhc56yccQ/aSP0p6X5uow.jpg?size=95x130&quality=95&sign=4f93e85ba5bcc8d6a81ae0dd4919d736&c_uniq_tag=jLKzosbP-ElpZCLXM-_aZ0f9fc7z-gIOpma401-H9Do&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 443,
+                                            "url": "https://sun1-55.userapi.com/impg/nD4ubMPmBWCq7YPrUY57SZH8qevxIEhc56yccQ/aSP0p6X5uow.jpg?size=443x604&quality=95&sign=036abd912faf9b99b6608dbd1c21f088&c_uniq_tag=f8selu1EpqeSJSNz3dFBY8dXHUqqt1EGaScX-OEBUHA&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 592,
+                                            "url": "https://sun1-55.userapi.com/impg/nD4ubMPmBWCq7YPrUY57SZH8qevxIEhc56yccQ/aSP0p6X5uow.jpg?size=592x807&quality=95&sign=a6af675a0ec505a4c993609da9021bc2&c_uniq_tag=mSO71MCjBaY9kBd9N_FqnI6c1TnLIf0UyxruDdGKhn0&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 792,
+                                            "url": "https://sun1-55.userapi.com/impg/nD4ubMPmBWCq7YPrUY57SZH8qevxIEhc56yccQ/aSP0p6X5uow.jpg?size=792x1080&quality=95&sign=0083e2cf138944c6045f28d369ad9b5f&c_uniq_tag=FzNtw6YHR54uMROEQY_IGvUwGGSXBSHPiEkffrQd_70&type=album"
+                                        },
+                                        {
+                                            "height": 2160,
+                                            "type": "w",
+                                            "width": 1585,
+                                            "url": "https://sun1-55.userapi.com/impg/nD4ubMPmBWCq7YPrUY57SZH8qevxIEhc56yccQ/aSP0p6X5uow.jpg?size=1585x2160&quality=95&sign=9e4302a2f5873d626a883d12f28f1673&c_uniq_tag=xTv3-QTqZAr08RvN1wHA3Ohi0Iv8ER4gWTgvclGnQi8&type=album"
+                                        },
+                                        {
+                                            "height": 177,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-55.userapi.com/impg/nD4ubMPmBWCq7YPrUY57SZH8qevxIEhc56yccQ/aSP0p6X5uow.jpg?size=130x177&quality=95&sign=ecd9de502d0c01e435dcd84800d1d8a3&c_uniq_tag=XTof59AQOEdjMKl4bIrTsJrnZJ6LxMpi-TTOVqMiXBQ&type=album"
+                                        },
+                                        {
+                                            "height": 273,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-55.userapi.com/impg/nD4ubMPmBWCq7YPrUY57SZH8qevxIEhc56yccQ/aSP0p6X5uow.jpg?size=200x273&quality=95&sign=8c7d5d8f3b4bed93fe634ccaa843502c&c_uniq_tag=W-EAJG1RXqszfw92Qj1NXYmwmSvPsTHdyiojmmaGjMc&type=album"
+                                        },
+                                        {
+                                            "height": 436,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-55.userapi.com/impg/nD4ubMPmBWCq7YPrUY57SZH8qevxIEhc56yccQ/aSP0p6X5uow.jpg?size=320x436&quality=95&sign=ff90a4fe38fa5f58abc1bce23bc3d289&c_uniq_tag=VwoKgUEJoroxTtlUA9RVVHWoxaIAdVJKxI8zilrWO0c&type=album"
+                                        },
+                                        {
+                                            "height": 695,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-55.userapi.com/impg/nD4ubMPmBWCq7YPrUY57SZH8qevxIEhc56yccQ/aSP0p6X5uow.jpg?size=510x695&quality=95&sign=85310ca8ba6170a5ddcb1db80a8bd669&c_uniq_tag=rQnpm1KW6US6gUHiVbiMvifDSrQ-hsSGb86a0LGWYl4&type=album"
+                                        }
+                                    ],
+                                    "text": "☀️Стильный комплект на лето☀️\nХлопок 💥 качество 🙌 супер\n✅цена штучно 1200₽\n✅цена упаковкой 1100₽(7 шт*1100₽)\nРазмеры 100,110,120,130,140,150,160(в размер)",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682656576,
+                                    "id": 457332487,
+                                    "owner_id": 445215003,
+                                    "access_key": "3c2ed35f4591be0b75",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 51,
+                                            "url": "https://sun1-93.userapi.com/impg/rsaY7ykrv14F-mmlZi6E1znY532Ihy7XJKd4Pg/cjL5292P2Uk.jpg?size=51x75&quality=95&sign=d4c05d8e547b459265a374d1c93e33bc&c_uniq_tag=9M4c0-GXn8TU9SZ3E9GW0o7oa0dzUuMRSXniXuFkp1M&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 88,
+                                            "url": "https://sun1-93.userapi.com/impg/rsaY7ykrv14F-mmlZi6E1znY532Ihy7XJKd4Pg/cjL5292P2Uk.jpg?size=88x130&quality=95&sign=c61c76ec409c421c8b6ad873969257a4&c_uniq_tag=EDpZTdrNTpFsDESoIk6E_3WcEYXeLo7j041VYybA8VA&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 410,
+                                            "url": "https://sun1-93.userapi.com/impg/rsaY7ykrv14F-mmlZi6E1znY532Ihy7XJKd4Pg/cjL5292P2Uk.jpg?size=410x604&quality=95&sign=f6aec941796c0cb0b720f1798fccbd61&c_uniq_tag=ZmVJf_-LoMMujPBH27zKOtBhsgCnl_OlDmDDEqv8IRc&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 548,
+                                            "url": "https://sun1-93.userapi.com/impg/rsaY7ykrv14F-mmlZi6E1znY532Ihy7XJKd4Pg/cjL5292P2Uk.jpg?size=548x807&quality=95&sign=7a3f1f725217c54ec4e6954994940e30&c_uniq_tag=eKjc1bkh4to3fimuxcAFUdozlJjxZnwd-MMnHkpNG58&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 734,
+                                            "url": "https://sun1-93.userapi.com/impg/rsaY7ykrv14F-mmlZi6E1znY532Ihy7XJKd4Pg/cjL5292P2Uk.jpg?size=734x1080&quality=95&sign=34e3bd49155581e61918a650c62cb1c9&c_uniq_tag=aLTakSeta87SfuuQ61n0LzkaM9Yl6v5j3R332j1YAAY&type=album"
+                                        },
+                                        {
+                                            "height": 2160,
+                                            "type": "w",
+                                            "width": 1467,
+                                            "url": "https://sun1-93.userapi.com/impg/rsaY7ykrv14F-mmlZi6E1znY532Ihy7XJKd4Pg/cjL5292P2Uk.jpg?size=1467x2160&quality=95&sign=61bba8147267e2ed4e7d359f1a5e7f46&c_uniq_tag=v4t24HbUie4H63kaXCaUSi_FWVwOyn31aB-Z0FDy078&type=album"
+                                        },
+                                        {
+                                            "height": 191,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-93.userapi.com/impg/rsaY7ykrv14F-mmlZi6E1znY532Ihy7XJKd4Pg/cjL5292P2Uk.jpg?size=130x191&quality=95&sign=351546613e61d6cdb0cecc446c06f37e&c_uniq_tag=xxSovVPdAZt8rz-BVs-wn6upX-8mSOzOA7eF-zXBHho&type=album"
+                                        },
+                                        {
+                                            "height": 294,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-93.userapi.com/impg/rsaY7ykrv14F-mmlZi6E1znY532Ihy7XJKd4Pg/cjL5292P2Uk.jpg?size=200x294&quality=95&sign=42546b21e32958b6bcc4021c13c0f1e9&c_uniq_tag=xAYSemhVEV5-pUHk_pMf13IAOQmtqAyHa7FIjKSgYB8&type=album"
+                                        },
+                                        {
+                                            "height": 471,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-93.userapi.com/impg/rsaY7ykrv14F-mmlZi6E1znY532Ihy7XJKd4Pg/cjL5292P2Uk.jpg?size=320x471&quality=95&sign=5942c1cdd7c46a2b54dc97b31a70d59b&c_uniq_tag=St9NDhJwnHCshQFfDBjA1h42Xqx8AmmuXZuietpe11Q&type=album"
+                                        },
+                                        {
+                                            "height": 751,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-93.userapi.com/impg/rsaY7ykrv14F-mmlZi6E1znY532Ihy7XJKd4Pg/cjL5292P2Uk.jpg?size=510x751&quality=95&sign=1096910de6a705995a4eca5ee0c1617b&c_uniq_tag=Y_q04ptiDrP9Odf_xv8Wvntim3azhx-KbfmglIr3y7c&type=album"
+                                        }
+                                    ],
+                                    "text": "☀️Стильный комплект на лето☀️\nХлопок 💥 качество 🙌 супер\n✅цена штучно 1200₽\n✅цена упаковкой 1100₽(7 шт*1100₽)\nРазмеры 100,110,120,130,140,150,160(в размер)",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682656577,
+                                    "id": 457332489,
+                                    "owner_id": 445215003,
+                                    "access_key": "56b3bd41ca35343437",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 56,
+                                            "url": "https://sun1-18.userapi.com/impg/DD81DzCyZU-C5HZVF4AJvg70yHwuheEBnGHYsQ/5J4w_ciCtDU.jpg?size=56x75&quality=95&sign=cd855c7626c3d648ad86da704038647c&c_uniq_tag=MYgrFFHqAcSTVTVTsjkKpCJrTFtOzWQ22hhuNFSBd8c&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 97,
+                                            "url": "https://sun1-18.userapi.com/impg/DD81DzCyZU-C5HZVF4AJvg70yHwuheEBnGHYsQ/5J4w_ciCtDU.jpg?size=97x130&quality=95&sign=cab139e13176dd209ea7ecf7f55f787a&c_uniq_tag=zzeJAzORXo79DsGYjmS0r1iC87ZtQQ6PWAzHEErtFHI&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 453,
+                                            "url": "https://sun1-18.userapi.com/impg/DD81DzCyZU-C5HZVF4AJvg70yHwuheEBnGHYsQ/5J4w_ciCtDU.jpg?size=453x604&quality=95&sign=7396ec6cdc94342c2b3bba9f2dab0dee&c_uniq_tag=SKCkHhQ41wdaimPz9ISX2m6f3Nexiv-i0J6B1jOGLtQ&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 605,
+                                            "url": "https://sun1-18.userapi.com/impg/DD81DzCyZU-C5HZVF4AJvg70yHwuheEBnGHYsQ/5J4w_ciCtDU.jpg?size=605x807&quality=95&sign=0911f26c2f849c261095dcce92264833&c_uniq_tag=QYBABV79mxcJD_I9wnpKTPeosipZew8LryzV0IY0t-Y&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 810,
+                                            "url": "https://sun1-18.userapi.com/impg/DD81DzCyZU-C5HZVF4AJvg70yHwuheEBnGHYsQ/5J4w_ciCtDU.jpg?size=810x1080&quality=95&sign=e3f57dc44b573598a712d730bae830c1&c_uniq_tag=kwSfmbmxWhApIVcaGG4ypKiUPfKdZ7MlnWSTQGByKZY&type=album"
+                                        },
+                                        {
+                                            "height": 2160,
+                                            "type": "w",
+                                            "width": 1620,
+                                            "url": "https://sun1-18.userapi.com/impg/DD81DzCyZU-C5HZVF4AJvg70yHwuheEBnGHYsQ/5J4w_ciCtDU.jpg?size=1620x2160&quality=95&sign=e1a9d161d3e88b061fe83a06ba515981&c_uniq_tag=F7NFh4QW2P1GcgnBinRSb7IcH2Wq4j0f5O8SufW20k4&type=album"
+                                        },
+                                        {
+                                            "height": 173,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-18.userapi.com/impg/DD81DzCyZU-C5HZVF4AJvg70yHwuheEBnGHYsQ/5J4w_ciCtDU.jpg?size=130x173&quality=95&sign=fc382ef880be1fc96912bd5a3e785512&c_uniq_tag=x6QgKuDH08zf6hvsh9kbN3KIWpmvxf40FU41evGOWZI&type=album"
+                                        },
+                                        {
+                                            "height": 267,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-18.userapi.com/impg/DD81DzCyZU-C5HZVF4AJvg70yHwuheEBnGHYsQ/5J4w_ciCtDU.jpg?size=200x267&quality=95&sign=ff564db4dda89f08ec0fde8e19d01c80&c_uniq_tag=CU8rS_dttbc0_zHQ7dQZJkLfOSqu7npXVq1O575QOvI&type=album"
+                                        },
+                                        {
+                                            "height": 427,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-18.userapi.com/impg/DD81DzCyZU-C5HZVF4AJvg70yHwuheEBnGHYsQ/5J4w_ciCtDU.jpg?size=320x427&quality=95&sign=db3e3c3a3b704b8b59fc938f3e760340&c_uniq_tag=HYJQgNG3dk63CC4Mc5mRrh-sJ9PiXwjsUY1pJf3f67s&type=album"
+                                        },
+                                        {
+                                            "height": 680,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-18.userapi.com/impg/DD81DzCyZU-C5HZVF4AJvg70yHwuheEBnGHYsQ/5J4w_ciCtDU.jpg?size=510x680&quality=95&sign=79f5bd502e47edc31dd36979c8accea0&c_uniq_tag=dyVrIy9Xwf-EuhVNxpBzfBkzrn7dAArm7-kp8887FLc&type=album"
+                                        }
+                                    ],
+                                    "text": "☀️Стильный комплект на лето☀️\nХлопок 💥 качество 🙌 супер\n✅цена штучно 1200₽\n✅цена упаковкой 1100₽(7 шт*1100₽)\nРазмеры 100,110,120,130,140,150,160(в размер)",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682656625,
+                                    "id": 457332493,
+                                    "owner_id": 445215003,
+                                    "access_key": "07d6e3c09657e7a777",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 75,
+                                            "url": "https://sun1-26.userapi.com/impg/G778XTCm47hyVcwUaXY04bOStbfIjEkzp6Ga2w/rfwdRlogpZ4.jpg?size=75x75&quality=95&sign=1ca2f33502d67457f018fdd20210f9af&c_uniq_tag=yhSl7rWcYDvAYBNMbrm10-vrMxhxrTzhBXrNSgfrgXk&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 130,
+                                            "url": "https://sun1-26.userapi.com/impg/G778XTCm47hyVcwUaXY04bOStbfIjEkzp6Ga2w/rfwdRlogpZ4.jpg?size=130x130&quality=95&sign=80241fb51023c6daa5352cf03553eca6&c_uniq_tag=czzacdE5ndUOGql6r-rXldkJuPoOUlfwP_5KjpVVdU0&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 604,
+                                            "url": "https://sun1-26.userapi.com/impg/G778XTCm47hyVcwUaXY04bOStbfIjEkzp6Ga2w/rfwdRlogpZ4.jpg?size=604x604&quality=95&sign=fa401ae2c882fdc7e21ec38b59db87ed&c_uniq_tag=-6JF0Cc0c8MdVCAIyp8LTKRnnoMt1gYEXmtr8tcXnsE&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 807,
+                                            "url": "https://sun1-26.userapi.com/impg/G778XTCm47hyVcwUaXY04bOStbfIjEkzp6Ga2w/rfwdRlogpZ4.jpg?size=807x807&quality=95&sign=2823cd1dfa986b10dc569a5617000916&c_uniq_tag=PVjKpRnd7hDxtyHYxpb1BXUfUMfqomrTUrdsDorI7jk&type=album"
+                                        },
+                                        {
+                                            "height": 1280,
+                                            "type": "z",
+                                            "width": 1280,
+                                            "url": "https://sun1-26.userapi.com/impg/G778XTCm47hyVcwUaXY04bOStbfIjEkzp6Ga2w/rfwdRlogpZ4.jpg?size=1280x1280&quality=95&sign=c5203ca2ab32615406c00ee2655772cd&c_uniq_tag=Rz9E9z8W1XhSO8uwYQL6O6yadS88byDl2FSZjOp749k&type=album"
+                                        },
+                                        {
+                                            "height": 2560,
+                                            "type": "w",
+                                            "width": 2560,
+                                            "url": "https://sun1-26.userapi.com/impg/G778XTCm47hyVcwUaXY04bOStbfIjEkzp6Ga2w/rfwdRlogpZ4.jpg?size=2560x2560&quality=95&sign=a0e39cab78ebf565d2c10c928059a7a1&c_uniq_tag=asJ4aiz7kjQDs4JNWK38F1r0f1LtxMdqInvGX_WpqRA&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-26.userapi.com/impg/G778XTCm47hyVcwUaXY04bOStbfIjEkzp6Ga2w/rfwdRlogpZ4.jpg?size=130x130&quality=95&sign=80241fb51023c6daa5352cf03553eca6&c_uniq_tag=czzacdE5ndUOGql6r-rXldkJuPoOUlfwP_5KjpVVdU0&type=album"
+                                        },
+                                        {
+                                            "height": 200,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-26.userapi.com/impg/G778XTCm47hyVcwUaXY04bOStbfIjEkzp6Ga2w/rfwdRlogpZ4.jpg?size=200x200&quality=95&sign=fd136c245537fc0793b7d789000c730c&c_uniq_tag=7Oy9AO6Dd3fR8863quqPY3Xy_qQPpMYkxt5Lfu_gLTA&type=album"
+                                        },
+                                        {
+                                            "height": 320,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-26.userapi.com/impg/G778XTCm47hyVcwUaXY04bOStbfIjEkzp6Ga2w/rfwdRlogpZ4.jpg?size=320x320&quality=95&sign=11cbcc0454575141114b0ad104518628&c_uniq_tag=89jpVa2ou2FtVQW3wJZvCWIzRqPGY3xrIqXbZUh80MM&type=album"
+                                        },
+                                        {
+                                            "height": 510,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-26.userapi.com/impg/G778XTCm47hyVcwUaXY04bOStbfIjEkzp6Ga2w/rfwdRlogpZ4.jpg?size=510x510&quality=95&sign=02df0c1fb2e1d2263354e7d8f432a6bc&c_uniq_tag=nxwSJ02wX4OPjqAAjFJA3r6H0Yarizmb8nC27wIXaII&type=album"
+                                        }
+                                    ],
+                                    "text": "☀️Стильный комплект на лето☀️\nХлопок 💥 качество 🙌 супер\n✅цена штучно 1200₽\n✅цена упаковкой 1100₽(7 шт*1100₽)\nРазмеры 100,110,120,130,140,150,160(в размер)",
+                                    "has_tags": false
+                                }
+                            },
+                            {
+                                "type": "photo",
+                                "photo": {
+                                    "album_id": -7,
+                                    "date": 1682656579,
+                                    "id": 457332492,
+                                    "owner_id": 445215003,
+                                    "access_key": "b1c03b7629e34cce4e",
+                                    "sizes": [
+                                        {
+                                            "height": 75,
+                                            "type": "s",
+                                            "width": 51,
+                                            "url": "https://sun1-13.userapi.com/impg/R2WeE6MDKh-XPX7T29C-cmXItKHly4NF7j8qGA/nRymNJXlxPA.jpg?size=51x75&quality=95&sign=f1e3172987f89db6c89340368890725c&c_uniq_tag=ci3fBXyicHNos3KpI_AGJHSV23CJ7qkX9PhzNXJhz5U&type=album"
+                                        },
+                                        {
+                                            "height": 130,
+                                            "type": "m",
+                                            "width": 88,
+                                            "url": "https://sun1-13.userapi.com/impg/R2WeE6MDKh-XPX7T29C-cmXItKHly4NF7j8qGA/nRymNJXlxPA.jpg?size=88x130&quality=95&sign=e106d1784579f51e745a18efbbfed66a&c_uniq_tag=fmCaCqaoDp5GcuMLyO9X8kyOzAkn54gh1-fwestq4Ww&type=album"
+                                        },
+                                        {
+                                            "height": 604,
+                                            "type": "x",
+                                            "width": 410,
+                                            "url": "https://sun1-13.userapi.com/impg/R2WeE6MDKh-XPX7T29C-cmXItKHly4NF7j8qGA/nRymNJXlxPA.jpg?size=410x604&quality=95&sign=325a094f6bf572348992370c07d361af&c_uniq_tag=h4RcSKO0gOlzBLza-1-RobXT454wJIFhCdzzaSz8R6I&type=album"
+                                        },
+                                        {
+                                            "height": 807,
+                                            "type": "y",
+                                            "width": 547,
+                                            "url": "https://sun1-13.userapi.com/impg/R2WeE6MDKh-XPX7T29C-cmXItKHly4NF7j8qGA/nRymNJXlxPA.jpg?size=547x807&quality=95&sign=289ec0c7ca0bd628769599f1baf86fc2&c_uniq_tag=iv2cZDCHp8kG0ZcBFjJ4Z49HL0vwx-8VQMVI3OP_LFw&type=album"
+                                        },
+                                        {
+                                            "height": 1080,
+                                            "type": "z",
+                                            "width": 732,
+                                            "url": "https://sun1-13.userapi.com/impg/R2WeE6MDKh-XPX7T29C-cmXItKHly4NF7j8qGA/nRymNJXlxPA.jpg?size=732x1080&quality=95&sign=2238101ebb524f3350753aecc62e1695&c_uniq_tag=bBAtbY9BPgylr6KylozjK1b0Ope-I_OD_VIsrIVcR2E&type=album"
+                                        },
+                                        {
+                                            "height": 2160,
+                                            "type": "w",
+                                            "width": 1464,
+                                            "url": "https://sun1-13.userapi.com/impg/R2WeE6MDKh-XPX7T29C-cmXItKHly4NF7j8qGA/nRymNJXlxPA.jpg?size=1464x2160&quality=95&sign=91952c1ce1184f51c58cb87b44ccc057&c_uniq_tag=fhQH3JcsWHkUL_f-zYpthZF5k-DHZGLupsyxW_FN0Ng&type=album"
+                                        },
+                                        {
+                                            "height": 192,
+                                            "type": "o",
+                                            "width": 130,
+                                            "url": "https://sun1-13.userapi.com/impg/R2WeE6MDKh-XPX7T29C-cmXItKHly4NF7j8qGA/nRymNJXlxPA.jpg?size=130x192&quality=95&sign=e8690ce9cf9cf1637088cc8003dd02cf&c_uniq_tag=sPGpAV5n6Ovu0WDU6WFmQ85GM_If-LUCaMFCwJKJdPM&type=album"
+                                        },
+                                        {
+                                            "height": 295,
+                                            "type": "p",
+                                            "width": 200,
+                                            "url": "https://sun1-13.userapi.com/impg/R2WeE6MDKh-XPX7T29C-cmXItKHly4NF7j8qGA/nRymNJXlxPA.jpg?size=200x295&quality=95&sign=81fdf65c0af226d10b610b7890fbca6d&c_uniq_tag=VKtBAfYImXheJB632z55dJs6SOzOZ423lNJOoPkFrQ8&type=album"
+                                        },
+                                        {
+                                            "height": 472,
+                                            "type": "q",
+                                            "width": 320,
+                                            "url": "https://sun1-13.userapi.com/impg/R2WeE6MDKh-XPX7T29C-cmXItKHly4NF7j8qGA/nRymNJXlxPA.jpg?size=320x472&quality=95&sign=305233584c9c94481a4d154d66b80ae7&c_uniq_tag=7gKPOsg3RGcHQBM5BXzZKOVS92DMC4MEqRjTitiT4Zg&type=album"
+                                        },
+                                        {
+                                            "height": 752,
+                                            "type": "r",
+                                            "width": 510,
+                                            "url": "https://sun1-13.userapi.com/impg/R2WeE6MDKh-XPX7T29C-cmXItKHly4NF7j8qGA/nRymNJXlxPA.jpg?size=510x752&quality=95&sign=edbaba1484d4e000217e615500f1d3ea&c_uniq_tag=T1sMZzaNBKq2Lk9MjMCiKD-nt4zR9KQ-OPZ9rjHRw7M&type=album"
+                                        }
+                                    ],
+                                    "text": "☀️Стильный комплект на лето☀️\nХлопок 💥 качество 🙌 супер\n✅цена штучно 1200₽\n✅цена упаковкой 1100₽(7 шт*1100₽)\nРазмеры 100,110,120,130,140,150,160(в размер)",
+                                    "has_tags": false
+                                }
+                            }
+                        ],
+                        "date": 1682658004,
+                        "from_id": 445215003,
+                        "id": 21165,
+                        "owner_id": 445215003,
+                        "post_source": {
+                            "platform": "iphone",
+                            "type": "api"
+                        },
+                        "post_type": "post",
+                        "text": "☀️Стильный комплект на лето☀️\nХлопок 💥 качество 🙌 супер\n✅цена штучно 1200₽\n✅цена упаковкой 1100₽(7 шт*1100₽)\nРазмеры 100,110,120,130,140,150,160(в размер)"
+                    }
+                ],
+                "donut": {
+                    "is_donut": false
+                },
+                "comments": {
+                    "can_post": 0,
+                    "count": 0
+                },
+                "marked_as_ads": 0,
+                "short_text_rate": 0.8,
+                "hash": "kRDnM1ENHOTxNFB5qpcC-EJFxyVm",
+                "type": "post",
+                "attachments": [],
+                "date": 1682658998,
+                "from_id": -167527030,
+                "id": 12062,
+                "is_favorite": false,
+                "likes": {
+                    "can_like": 1,
+                    "count": 6,
+                    "user_likes": 0,
+                    "can_publish": 1,
+                    "repost_disabled": false
+                },
+                "owner_id": -167527030,
+                "post_source": {
+                    "platform": "iphone",
+                    "type": "api"
+                },
+                "post_type": "post",
+                "reposts": {
+                    "count": 6,
+                    "user_reposted": 0
+                },
+                "text": "",
+                "views": {
+                    "count": 1610
+                }
+            }
+        ]
+    }
+}
